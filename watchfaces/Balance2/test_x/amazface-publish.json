@@ -5,23 +5,23 @@
   "name": "test_x",
   "slug": "test_x",
   "version": "1.0.0",
-  "publishedAt": "2026-11-10T20:29:02.037Z",
+  "publishedAt": "2026-11-10T20:47:11.868Z",
   "files": {
     "test_x.zpk": {
-      "sha256": "996ba4f05f6a5c728210b852230210434f67b5630c9ee32004b01833c5d3c501",
-      "size": 363179
+      "sha256": "55f53d603dd78358a1dff43a52ad79c4cf5717b363f8ec0ce4a6111dd3d07cea",
+      "size": 457481
     },
     "device.zip": {
-      "sha256": "3b54b80c6cb509878e0892847b60e62b01040d9ce39c9f7521889e0ecdfd230d",
-      "size": 379711
+      "sha256": "4cf117d38727054948a487342128932fff3e8396069474364ae7685b849b8b25",
+      "size": 462123
     },
     "project.zip": {
-      "sha256": "037a435a8069c8ecae5f1ed05d553aacfee0cfc912ffc4649a0ccb9bb6f7c813",
-      "size": 794987
+      "sha256": "3ebb4061cc8bc0270eb2fd5d1d9635e88c5ddf39feed661db389006cd72375e8",
+      "size": 1332370
     },
     "test_x.watchface.json": {
-      "sha256": "fb42060007e672de8ba0c0b0b7ebd4b1832ac3ed7d116eb93a912332262624e9",
-      "size": 915681
+      "sha256": "6c666b8ec381d835a693666de885c94df9a25e0fee8f8ffb731d45201e3904b5",
+      "size": 1054810
     },
     "test_x-watch.png": {
       "sha256": "c4d2e217b4de397dedb54315a919eca2f1f27df4f9f2e40a45cbf3618539b62f",
@@ -30,6 +30,10 @@
     "test_x-watch-200.png": {
       "sha256": "8d6eb8b602d28776694203dcd379e18dc2e04a33d2278a28aaae2c54c9dd9304",
       "size": 45578
+    },
+    "test_x-night.png": {
+      "sha256": "a0ee0fbe54a0fb6fe4c8091176f516f91f39511960d60d1a16f576dc1d16b05e",
+      "size": 563946
     },
     "test_x-aod.png": {
       "sha256": "bd3421bbcc5b952a1dee1f11d7f285ba7f986210004a12db2864e88a7e5b52e8",
