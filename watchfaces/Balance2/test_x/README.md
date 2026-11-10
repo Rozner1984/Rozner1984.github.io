@@ -6,12 +6,12 @@
 
 ## Превью циферблата
 
-| Дневной · основной | AOD |
-| :--: | :--: |
-| ![Дневной · основной](test_x-watch.png) | ![AOD](test_x-aod.png) |
+| Дневной · основной | Ночной | AOD |
+| :--: | :--: | :--: |
+| ![Дневной · основной](test_x-watch.png) | ![Ночной](test_x-night.png) | ![AOD](test_x-aod.png) |
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-10T20:29:02.037Z
+- **Опубликовано:** 2026-11-10T20:47:11.868Z
 - **Установочный пакет:** [test_x.zpk](https://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/test_x/test_x.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/test_x/test_x.zpk`
 
@@ -27,6 +27,7 @@
 - `device.zip` — содержимое для устройства (то же, что внутри пакета)
 - `project.zip` — полный проект Zepp OS
 - `test_x-watch.png` — дневной, основной циферблат в полном качестве
+- `test_x-night.png` — ночной циферблат в полном качестве
 - `test_x-aod.png` — превью AOD в полном качестве
 - `test_x-watch-200.png` — уменьшенный дневной мокап высотой 200 px
 - `test_x-watch-qr.png` — мокап часов с циферблатом и QR-кодом
