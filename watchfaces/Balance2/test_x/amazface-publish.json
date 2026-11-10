@@ -5,39 +5,39 @@
   "name": "test_x",
   "slug": "test_x",
   "version": "1.0.0",
-  "publishedAt": "2026-11-10T19:25:22.704Z",
+  "publishedAt": "2026-11-10T20:23:29.165Z",
   "files": {
     "test_x.zpk": {
-      "sha256": "c08200c88515fb82f4b75e71cc025ebd48c85387d784e6e12a0a073e13b944fe",
-      "size": 150312
+      "sha256": "bba09334de9e5a7987395b78a3997ee0824aa778fa3e60d5bd45137681df46d1",
+      "size": 456125
     },
     "device.zip": {
-      "sha256": "bc75106ee328190c2d108baa852e0dafb9f6443168a68142fdfee19f36e54727",
-      "size": 156796
+      "sha256": "eb92da8c43f862442be77cb678cbd6bc1907d5e616745124a2098dd2cddb081f",
+      "size": 460744
     },
     "project.zip": {
-      "sha256": "98d9a095c734357408df1d461a560ce0abf7e35cf4d35d77db9d354afdf07804",
-      "size": 412431
+      "sha256": "7bd618218853af46da8dd8daddbddea7938b9411d214248e5aeb4c0f94413102",
+      "size": 1316993
     },
     "test_x.watchface.json": {
-      "sha256": "315fe49685bb0dda93a39a0f11c3462cc3db1dc31fb88ed4b5b8823d8247e8b3",
-      "size": 478816
+      "sha256": "5c4f2db7edac0565611146961576c47c0fde13c6ce4565008274cd107f797faf",
+      "size": 1041459
     },
     "test_x-watch.png": {
-      "sha256": "27a047fcb9000f88f842192d435fa955ab40fda24d70a5912ef37532fc4e5270",
-      "size": 294717
+      "sha256": "c4d2e217b4de397dedb54315a919eca2f1f27df4f9f2e40a45cbf3618539b62f",
+      "size": 564808
     },
     "test_x-watch-200.png": {
-      "sha256": "340ebbd59fbae847aae214c9fd3581dd4eb03fa3cac51e3fcec5102538e439ed",
-      "size": 24390
+      "sha256": "8d6eb8b602d28776694203dcd379e18dc2e04a33d2278a28aaae2c54c9dd9304",
+      "size": 45578
     },
     "test_x-aod.png": {
       "sha256": "12551baf5ed78c5b0aac24a75b83a6a30058e73751a7c2bf1cbb349f175e5a78",
       "size": 293021
     },
     "test_x-watch-qr.png": {
-      "sha256": "df42c2119ba07d4a301c3ba006471dd47ed232d2f4df63970e6d182ce2d0273f",
-      "size": 1140414
+      "sha256": "a7ec62a5d7bb1065325f7bfcc25fc01eebd1915dbc1102f39b0f2dc05d6f8469",
+      "size": 1446693
     }
   }
 }
