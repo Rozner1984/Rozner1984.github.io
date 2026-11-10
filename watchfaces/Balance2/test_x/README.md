@@ -11,7 +11,7 @@
 | ![Дневной · основной](test_x-watch.png) | ![AOD](test_x-aod.png) |
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-10T20:23:29.165Z
+- **Опубликовано:** 2026-11-10T20:29:02.037Z
 - **Установочный пакет:** [test_x.zpk](https://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/test_x/test_x.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/test_x/test_x.zpk`
 
