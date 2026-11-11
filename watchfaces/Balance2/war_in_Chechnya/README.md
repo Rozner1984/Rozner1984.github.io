@@ -17,7 +17,7 @@
 ![Зоны нажатия](war_in_Chechnya-tap-zones.png)
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-11T22:52:31.992Z
+- **Опубликовано:** 2026-11-11T22:57:31.803Z
 - **Установочный пакет:** [war_in_Chechnya.zpk](https://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/war_in_Chechnya/war_in_Chechnya.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/war_in_Chechnya/war_in_Chechnya.zpk`
 
