@@ -10,14 +10,8 @@
 | :--: | :--: |
 | ![Дневной · основной](war_in_Chechnya-watch.png) | ![AOD](war_in_Chechnya-aod.png) |
 
-## Зоны нажатия
-
-Номера на циферблате соответствуют списку справа: там указано, что открывается по нажатию.
-
-![Зоны нажатия](war_in_Chechnya-tap-zones.png)
-
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-11T22:57:31.803Z
+- **Опубликовано:** 2026-11-11T23:02:08.706Z
 - **Установочный пакет:** [war_in_Chechnya.zpk](https://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/war_in_Chechnya/war_in_Chechnya.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/war_in_Chechnya/war_in_Chechnya.zpk`
 
@@ -36,6 +30,5 @@
 - `war_in_Chechnya-aod.png` — превью AOD в полном качестве
 - `war_in_Chechnya-watch-200.png` — уменьшенный дневной мокап высотой 200 px
 - `war_in_Chechnya-watch-qr.png` — мокап часов с циферблатом и QR-кодом
-- `war_in_Chechnya-tap-zones.png` — карта зон нажатия: что открывается по тапу
 - `war_in_Chechnya.watchface.json` — исходник циферблата для редактора AmazFace («Открыть»)
 - `amazface-publish.json` — служебный файл AmazFace: защищает папку от случайной перезаписи другим проектом
