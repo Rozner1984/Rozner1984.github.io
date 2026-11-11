@@ -11,7 +11,7 @@
 | ![Дневной · основной](Death_to_Spies-watch.png) | ![AOD](Death_to_Spies-aod.png) |
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-11T21:32:02.811Z
+- **Опубликовано:** 2026-11-11T21:40:35.555Z
 - **Установочный пакет:** [Death_to_Spies.zpk](https://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/Death_to_Spies/Death_to_Spies.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/Death_to_Spies/Death_to_Spies.zpk`
 
