@@ -1,0 +1,47 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "5399947",
+  "name": "war in Chechnya",
+  "slug": "war_in_Chechnya",
+  "version": "1.0.0",
+  "publishedAt": "2026-11-11T22:52:31.992Z",
+  "files": {
+    "war_in_Chechnya.zpk": {
+      "sha256": "317e7af672b737c6cedab453ce538dbb5a3988b9a3300e62e3620ff129f6c44a",
+      "size": 694493
+    },
+    "device.zip": {
+      "sha256": "2b71f59d51ceb1cd5bd96dfb59289fbc32e241503be719fd2d5ca3161e792fe3",
+      "size": 695309
+    },
+    "project.zip": {
+      "sha256": "3cfa19166395fc3502949d75faa502fbcaa1d0f959b706f9db89c8c27ca684ae",
+      "size": 2146817
+    },
+    "war_in_Chechnya.watchface.json": {
+      "sha256": "0d2a5cdef0e0082158b522b1e69e25040607d8aa4337bc9f5cdd5fd97d8eb98c",
+      "size": 1403564
+    },
+    "war_in_Chechnya-watch.png": {
+      "sha256": "7d2f19c51024750c424f3aa10be79d5260df004023f6149dccc3a1e85b40dd42",
+      "size": 925519
+    },
+    "war_in_Chechnya-watch-200.png": {
+      "sha256": "50ac903b7812dddecf8f64913d0477a121b2b5079fbafc4df75e682846ce182e",
+      "size": 57591
+    },
+    "war_in_Chechnya-aod.png": {
+      "sha256": "48e1d3edfca2c87f782cd734fa920d7eb9dc994e4615b8b27ae4ad496b85298a",
+      "size": 886278
+    },
+    "war_in_Chechnya-tap-zones.png": {
+      "sha256": "1e691dbe9370692c6c0e2c89298827cf446d6844279db3b419f9922261887bcb",
+      "size": 1566001
+    },
+    "war_in_Chechnya-watch-qr.png": {
+      "sha256": "0f1b89a648d25c0d0b7bf1d019ae603dabc6553a9f3e602fe37901f26bdb8253",
+      "size": 1822669
+    }
+  }
+}
