@@ -5,39 +5,39 @@
   "name": "Death to Spies",
   "slug": "Death_to_Spies",
   "version": "1.0.0",
-  "publishedAt": "2026-11-11T21:02:22.759Z",
+  "publishedAt": "2026-11-11T21:29:01.774Z",
   "files": {
     "Death_to_Spies.zpk": {
-      "sha256": "8a31938f5b7398c43e9e8450ade612051ed56079726ab2be294c368910fd2da6",
-      "size": 331715
+      "sha256": "4fb7076393dc545263babaf25af3264ddc7ee3c0ab12419e18edab2c2e450bae",
+      "size": 188903
     },
     "device.zip": {
-      "sha256": "7764c6e158944d0d4d64a1890e226626db1b2bddfda5ab2a7a0864b4b5c530c5",
-      "size": 332054
+      "sha256": "53af70d5245ac9b97c3315e4f7421d55622587c20f5e3151427daf6ed2375893",
+      "size": 223349
     },
     "project.zip": {
-      "sha256": "3e05948468928e5f686b41133f2f658672d5945cf45330ed20cb86fb4e13592b",
-      "size": 1253557
+      "sha256": "bc1757e1418dd03c0328d3f27efe58acc4e0193a288246b3565065c65854d55d",
+      "size": 689062
     },
     "Death_to_Spies.watchface.json": {
-      "sha256": "f33e60b2a12d29296201bf5f0ad3f123de6e432db0695b9e2bb3114fbcba0dd0",
-      "size": 681368
+      "sha256": "faec3c7e55507f4aec22ae8963a2cf596ccf39c73b413d708ef7cd39c2d04716",
+      "size": 527854
     },
     "Death_to_Spies-watch.png": {
-      "sha256": "e09b3abe47351c9b5abf308ee1b068f450c8394e3b8b320b529e714197b8b1dc",
-      "size": 679435
+      "sha256": "4057858aba4427ebdb36dc6962ca0514eed311d503b29be95046c59e717d57de",
+      "size": 663584
     },
     "Death_to_Spies-watch-200.png": {
-      "sha256": "7bf8fc4dfd467d9ec177bf0107c5a26e81afbd26f5526817d0c8fc8989f6a4d5",
-      "size": 47756
+      "sha256": "d0adb5c8afc62a2a89c9541f5d9a1072b646a687da9c1dc0cc6a84545c2550d7",
+      "size": 47234
     },
     "Death_to_Spies-aod.png": {
-      "sha256": "686ba132bf7fa03ffbb9b1e7cb8a3fad9a5af4b2d51c701fdcdbb93741a75875",
-      "size": 419791
+      "sha256": "87f6d4bd4dedf638c6b3d3426ed341c86967426954a0e6a3395726ff45731799",
+      "size": 405176
     },
     "Death_to_Spies-watch-qr.png": {
-      "sha256": "80d022d346fa49dbd228e9d800e03cc8fa606b6bca956c957c5d8a4640089a48",
-      "size": 1578092
+      "sha256": "53ae2ac95ce46d73a896b21e05f6234ad6ddc4e135393e94b4b4d9ae2152737f",
+      "size": 1562795
     }
   }
 }
