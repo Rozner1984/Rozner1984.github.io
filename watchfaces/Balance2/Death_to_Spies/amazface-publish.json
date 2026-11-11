@@ -5,39 +5,39 @@
   "name": "Death to Spies",
   "slug": "Death_to_Spies",
   "version": "1.0.0",
-  "publishedAt": "2026-11-11T21:32:02.811Z",
+  "publishedAt": "2026-11-11T21:40:35.555Z",
   "files": {
     "Death_to_Spies.zpk": {
-      "sha256": "f6655a21677e1aa6dd7b99ee3fb666cabc992861a8370c35821b2f86627a8389",
-      "size": 324983
+      "sha256": "7bca732b8958d663dc3d53b52faf2a01a87822f22dbc33b55640db9c1e477fdb",
+      "size": 187131
     },
     "device.zip": {
-      "sha256": "5e3875fa5d33696bbe9a28254fbe32d726068f890d2452349869af3e306b54bc",
-      "size": 324946
+      "sha256": "cbd3802ca4682c084fb38e0c73b1eeebe3a420c15d2d214947845c98c44248b5",
+      "size": 222579
     },
     "project.zip": {
-      "sha256": "e92ceaefbe2f1aa3a870970790725ab385b2c9277d731246a091c959cb1dbc36",
-      "size": 1215742
+      "sha256": "f6d6784d9b48aa49f547a06974f7f4a09d05bcfd3afe8ac6b3e39c5962345b4f",
+      "size": 703825
     },
     "Death_to_Spies.watchface.json": {
-      "sha256": "0fd053fa5cc25180364520e60aaa57e54874a61f7ca7786f8ce7302d7ccacce2",
-      "size": 652461
+      "sha256": "109bd3259efc00b0ad1ab59d0c6d5594839aedfc8a7e62353b1be9eec83eed60",
+      "size": 532398
     },
     "Death_to_Spies-watch.png": {
-      "sha256": "829e5226d6e34666eaf516483c3e6f3be502d97ff9d881c8f59b3ef8c81b07ac",
-      "size": 663685
+      "sha256": "a38607cafbd681ed14c2d40b0fb9a40c54b52c6191f38bb16c94daab0d89c66b",
+      "size": 663708
     },
     "Death_to_Spies-watch-200.png": {
       "sha256": "42197c0ee5252f2acff23b228203f6c28a506a58c42f5f4907b770a034ba12ef",
       "size": 47221
     },
     "Death_to_Spies-aod.png": {
-      "sha256": "cc27feeb8f47776ebaf12fc06c56f521c03ff29081e783d9439c1fe0e49f2550",
-      "size": 405142
+      "sha256": "7d570ed34059ca720ff282028275efeeadc36de9cf58e65bcda14857e59183b8",
+      "size": 413217
     },
     "Death_to_Spies-watch-qr.png": {
-      "sha256": "c29a8e44ce46ebda47d880a3f4eec9037b592594b753136d0d9421b9529deb06",
-      "size": 1562232
+      "sha256": "667f4ada6366571c66cb3b6c4fde56a45ef90fea26a035a2802c8975054d49a3",
+      "size": 1562045
     }
   }
 }
