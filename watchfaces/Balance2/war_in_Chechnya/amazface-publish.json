@@ -5,43 +5,43 @@
   "name": "war in Chechnya",
   "slug": "war_in_Chechnya",
   "version": "1.0.0",
-  "publishedAt": "2026-11-11T22:52:31.992Z",
+  "publishedAt": "2026-11-11T22:57:31.803Z",
   "files": {
     "war_in_Chechnya.zpk": {
-      "sha256": "317e7af672b737c6cedab453ce538dbb5a3988b9a3300e62e3620ff129f6c44a",
-      "size": 694493
+      "sha256": "bfab19685b5a63c068642578c8a60348aee144f9aaf004f73b33f82a4e8890ad",
+      "size": 693362
     },
     "device.zip": {
-      "sha256": "2b71f59d51ceb1cd5bd96dfb59289fbc32e241503be719fd2d5ca3161e792fe3",
-      "size": 695309
+      "sha256": "e479cc458d5380b6aacdbf7e52213b76c2d75e3eef7aaab8ccd5ce83bcc5e815",
+      "size": 694186
     },
     "project.zip": {
-      "sha256": "3cfa19166395fc3502949d75faa502fbcaa1d0f959b706f9db89c8c27ca684ae",
-      "size": 2146817
+      "sha256": "385f367fac138d00998a9f5b130a73447c9d2b0b42cf2098c7504da50b52d401",
+      "size": 2142587
     },
     "war_in_Chechnya.watchface.json": {
-      "sha256": "0d2a5cdef0e0082158b522b1e69e25040607d8aa4337bc9f5cdd5fd97d8eb98c",
-      "size": 1403564
+      "sha256": "4025d51259c39de3390650c53ffde8dacef85746964aca7b8d7da7f55c7e73d2",
+      "size": 1402612
     },
     "war_in_Chechnya-watch.png": {
-      "sha256": "7d2f19c51024750c424f3aa10be79d5260df004023f6149dccc3a1e85b40dd42",
-      "size": 925519
+      "sha256": "32600c19af385c27568b6d3b37e3d0d97d4c4923cb4542874ed49e83eb434275",
+      "size": 923273
     },
     "war_in_Chechnya-watch-200.png": {
-      "sha256": "50ac903b7812dddecf8f64913d0477a121b2b5079fbafc4df75e682846ce182e",
-      "size": 57591
+      "sha256": "2b3d122aa5b3aad16328b85c4cc0a6d451af75a7a320af08b05fbccf3287f20d",
+      "size": 57705
     },
     "war_in_Chechnya-aod.png": {
       "sha256": "48e1d3edfca2c87f782cd734fa920d7eb9dc994e4615b8b27ae4ad496b85298a",
       "size": 886278
     },
     "war_in_Chechnya-tap-zones.png": {
-      "sha256": "1e691dbe9370692c6c0e2c89298827cf446d6844279db3b419f9922261887bcb",
-      "size": 1566001
+      "sha256": "e4000105dc616fb848d78c0d69ac67413c194753e944e9c091df0e0211888cca",
+      "size": 1564255
     },
     "war_in_Chechnya-watch-qr.png": {
-      "sha256": "0f1b89a648d25c0d0b7bf1d019ae603dabc6553a9f3e602fe37901f26bdb8253",
-      "size": 1822669
+      "sha256": "4e1fd43ab412ebfb87112198fb03ab2e7e36b4ba0cc3027557e94efd4d63352b",
+      "size": 1820448
     }
   }
 }
