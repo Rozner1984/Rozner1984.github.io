@@ -1,0 +1,43 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "5978756",
+  "name": "Death to Spies",
+  "slug": "Death_to_Spies",
+  "version": "1.0.0",
+  "publishedAt": "2026-11-11T21:02:22.759Z",
+  "files": {
+    "Death_to_Spies.zpk": {
+      "sha256": "8a31938f5b7398c43e9e8450ade612051ed56079726ab2be294c368910fd2da6",
+      "size": 331715
+    },
+    "device.zip": {
+      "sha256": "7764c6e158944d0d4d64a1890e226626db1b2bddfda5ab2a7a0864b4b5c530c5",
+      "size": 332054
+    },
+    "project.zip": {
+      "sha256": "3e05948468928e5f686b41133f2f658672d5945cf45330ed20cb86fb4e13592b",
+      "size": 1253557
+    },
+    "Death_to_Spies.watchface.json": {
+      "sha256": "f33e60b2a12d29296201bf5f0ad3f123de6e432db0695b9e2bb3114fbcba0dd0",
+      "size": 681368
+    },
+    "Death_to_Spies-watch.png": {
+      "sha256": "e09b3abe47351c9b5abf308ee1b068f450c8394e3b8b320b529e714197b8b1dc",
+      "size": 679435
+    },
+    "Death_to_Spies-watch-200.png": {
+      "sha256": "7bf8fc4dfd467d9ec177bf0107c5a26e81afbd26f5526817d0c8fc8989f6a4d5",
+      "size": 47756
+    },
+    "Death_to_Spies-aod.png": {
+      "sha256": "686ba132bf7fa03ffbb9b1e7cb8a3fad9a5af4b2d51c701fdcdbb93741a75875",
+      "size": 419791
+    },
+    "Death_to_Spies-watch-qr.png": {
+      "sha256": "80d022d346fa49dbd228e9d800e03cc8fa606b6bca956c957c5d8a4640089a48",
+      "size": 1578092
+    }
+  }
+}
