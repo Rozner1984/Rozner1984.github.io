@@ -5,39 +5,39 @@
   "name": "war in Chechnya",
   "slug": "war_in_Chechnya",
   "version": "1.0.0",
-  "publishedAt": "2026-11-11T23:02:08.706Z",
+  "publishedAt": "2026-11-11T23:07:38.699Z",
   "files": {
     "war_in_Chechnya.zpk": {
-      "sha256": "72e7c28d7436f0bf37fd5f059bf7bc4476ec080635105dbd2c25b01c933105d6",
-      "size": 693104
+      "sha256": "f4812218a5d61cb7fb4b44e5375b51f5387f0586df734f2d268bee876ee578c3",
+      "size": 693506
     },
     "device.zip": {
-      "sha256": "953b68e93577ba794a5eed8612ea0ca63756f980650b169ff8534b4724c04b5e",
-      "size": 693938
+      "sha256": "caee598baaf4038e9c4d325a3291f060cb03809cd7dd5ea7795b3c45a30c0603",
+      "size": 694330
     },
     "project.zip": {
-      "sha256": "d6cdf006fae21dedc57ec5990aa635de64511f0f52c94da594e0595a7e169d46",
-      "size": 2144065
+      "sha256": "5e444007e5f042d07a3e0dcea56786dcaeca8d9be43689da9349d5ceb5aeaa3d",
+      "size": 2140358
     },
     "war_in_Chechnya.watchface.json": {
-      "sha256": "8ea46805a9d44366cd575be3e5c900b467d1821ddd0c8c6da7adbe5d6e43b3af",
-      "size": 1402250
+      "sha256": "fda542da9ad593cfb396eb47281d6ea8fb22f864314d8bce5a26a07ac11fda88",
+      "size": 1401452
     },
     "war_in_Chechnya-watch.png": {
-      "sha256": "2a772f19906cb466b71540bfb1a817724b7731e7548f8681a281a4f03863362d",
-      "size": 925183
+      "sha256": "d3a6416bd3755f152286eb013b11d73187bb106f6e177d69faf36e3de00a9375",
+      "size": 924095
     },
     "war_in_Chechnya-watch-200.png": {
-      "sha256": "52a3cab6f200adc65c81a7263c4ece920feb743550789cb438cbcc8a68a0c2e3",
-      "size": 57772
+      "sha256": "8c31cbd9d9357b85c3d438d0af9f449a474373cd93202b0ff21d0448b3016366",
+      "size": 57682
     },
     "war_in_Chechnya-aod.png": {
       "sha256": "48e1d3edfca2c87f782cd734fa920d7eb9dc994e4615b8b27ae4ad496b85298a",
       "size": 886278
     },
     "war_in_Chechnya-watch-qr.png": {
-      "sha256": "41719e2801a2383b60e2e58411c215e6574a25109a2744811595168dab275ee6",
-      "size": 1823158
+      "sha256": "50aa6901a539bf4efd688d03861764b92f151630481afc4853eb5eaecf3d98f5",
+      "size": 1821218
     }
   }
 }
