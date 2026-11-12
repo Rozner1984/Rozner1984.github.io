@@ -11,7 +11,7 @@
 | ![Дневной · основной](kospet_t4-watch.png) | ![AOD](kospet_t4-aod.png) |
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-12T08:51:10.832Z
+- **Опубликовано:** 2026-11-12T09:03:18.229Z
 - **Установочный пакет:** [kospet_t4.zpk](https://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/kospet_t4/kospet_t4.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/kospet_t4/kospet_t4.zpk`
 
