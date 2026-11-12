@@ -1,0 +1,43 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "9226697",
+  "name": "BODROV",
+  "slug": "BODROV",
+  "version": "1.0.0",
+  "publishedAt": "2026-11-12T21:09:59.821Z",
+  "files": {
+    "BODROV.zpk": {
+      "sha256": "291d20be942d86fec5e35cc4d9f14e0160885da79e20482d6ec32a94092a8d92",
+      "size": 359251
+    },
+    "device.zip": {
+      "sha256": "de3afcf8739e0cb5db39e586adb1ac79e8e8727523e466ada2fadeb9394d8a81",
+      "size": 373965
+    },
+    "project.zip": {
+      "sha256": "01390e12739bf596965aee88b44c74e85a83a9a5adcc66c705aae85fe2d9bf6b",
+      "size": 1525109
+    },
+    "BODROV.watchface.json": {
+      "sha256": "0a2a4d7bb197d401cca3e5624c8dab5f4f3c07c4d0783c3acd7f5a6cf205a806",
+      "size": 901376
+    },
+    "BODROV-watch.png": {
+      "sha256": "79b34dab04f17e84983fd87b97cdcaf0155b657f0b0e3151e82df4e07b3e159a",
+      "size": 770335
+    },
+    "BODROV-watch-200.png": {
+      "sha256": "04a9c78b1f59d61d31ff0bbe1ecb6dc67f42275191d65e9987fa526f6ad1a3a3",
+      "size": 51001
+    },
+    "BODROV-aod.png": {
+      "sha256": "12551baf5ed78c5b0aac24a75b83a6a30058e73751a7c2bf1cbb349f175e5a78",
+      "size": 293021
+    },
+    "BODROV-watch-qr.png": {
+      "sha256": "dea5dc1a4f8fc2b94a169f3eff265d101b80eb54e43dd432a5ac1b0e5c151bcc",
+      "size": 1644566
+    }
+  }
+}
