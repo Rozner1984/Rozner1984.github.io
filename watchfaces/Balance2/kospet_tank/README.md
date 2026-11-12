@@ -11,7 +11,7 @@
 | ![Дневной · основной](kospet_tank-watch.png) | ![AOD](kospet_tank-aod.png) |
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-12T23:01:48.654Z
+- **Опубликовано:** 2026-11-12T23:09:09.446Z
 - **Установочный пакет:** [kospet_tank.zpk](https://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/kospet_tank/kospet_tank.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/kospet_tank/kospet_tank.zpk`
 
