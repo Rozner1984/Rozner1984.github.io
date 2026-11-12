@@ -48,7 +48,7 @@
       "props": {
         "data_source": "BATTERY",
         "value_min": 0,
-        "value_max": 0,
+        "value_max": 100,
         "preview_percent": 100,
         "start_angle": 228,
         "end_angle": 132,
@@ -431,7 +431,7 @@
           "props": {
             "data_source": "BATTERY",
             "value_min": 0,
-            "value_max": 0,
+            "value_max": 100,
             "preview_percent": 100,
             "start_angle": 228,
             "end_angle": 132,
