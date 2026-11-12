@@ -5,39 +5,39 @@
   "name": "BODROV",
   "slug": "BODROV",
   "version": "1.0.0",
-  "publishedAt": "2026-11-12T21:16:58.778Z",
+  "publishedAt": "2026-11-12T21:23:42.204Z",
   "files": {
     "BODROV.zpk": {
-      "sha256": "8959710c53918f8bd4dd3d99ee28730d89e4796a120113b079c056aeab08298c",
-      "size": 357497
+      "sha256": "ff7a33a6333cf3b098f72638b0fb774d2cf2a84daf686bc38421dda22c01c11c",
+      "size": 361542
     },
     "device.zip": {
-      "sha256": "2bc9cbd993574f78fce9a248d411f377311a6a4ef2281f55534ef12ffed88a67",
-      "size": 372212
+      "sha256": "2b67d92002c452574f8176155f1a5201babd56586b8785f9fdff19ff4e079af3",
+      "size": 376251
     },
     "project.zip": {
-      "sha256": "4f1b4f384fb48961c0c4d1fb4a5e7b65155d6d4bf37b99a4637ea51ee40699c4",
-      "size": 1526103
+      "sha256": "b9e2bb275ff9ab007976d6503667aeb8e2582596a20f6331f479b21c1af8589e",
+      "size": 1517445
     },
     "BODROV.watchface.json": {
-      "sha256": "5ac3e781887eb7c86afe29dcb6195d8b96bd369e94326fad613e6302308475e4",
-      "size": 901508
+      "sha256": "cfaa5f6563d49625c4568538404817f61411bb1f63469cd289cc9fec2aa208c2",
+      "size": 896416
     },
     "BODROV-watch.png": {
-      "sha256": "732084a2fe48260026f3eae8e9883fb949c56aaa962ae3462a69d9793509f75f",
-      "size": 770513
+      "sha256": "fa46fc5e2d18b885f5fdb07cd83f16f09754fa39f04e8f1ff44f5d291aeed2da",
+      "size": 766542
     },
     "BODROV-watch-200.png": {
-      "sha256": "783ab51a8b91aaf3ef71d7a2f1180ad2078448a5399d110d142c9a91eae2b48e",
-      "size": 50733
+      "sha256": "91880f3ea2ddd3992a0c9e17dc83d35e05ab39da00fcb5f2e264f242ced650ce",
+      "size": 50843
     },
     "BODROV-aod.png": {
       "sha256": "12551baf5ed78c5b0aac24a75b83a6a30058e73751a7c2bf1cbb349f175e5a78",
       "size": 293021
     },
     "BODROV-watch-qr.png": {
-      "sha256": "6f4108ba52fe428ae5d47f5d3966d95d45251fc5fa56b7b0277584b160eb2477",
-      "size": 1643921
+      "sha256": "5f92ca3add0a8dbfd0668bc653ce284347f5b7e2f16b49fe73f474ef36588846",
+      "size": 1640923
     }
   }
 }
