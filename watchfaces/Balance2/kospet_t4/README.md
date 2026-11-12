@@ -6,12 +6,12 @@
 
 ## Превью циферблата
 
-| Дневной · основной | AOD |
-| :--: | :--: |
-| ![Дневной · основной](kospet_t4-watch.png) | ![AOD](kospet_t4-aod.png) |
+| Дневной · основной | Ночной | AOD |
+| :--: | :--: | :--: |
+| ![Дневной · основной](kospet_t4-watch.png) | ![Ночной](kospet_t4-night.png) | ![AOD](kospet_t4-aod.png) |
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-12T09:16:36.042Z
+- **Опубликовано:** 2026-11-12T09:21:55.477Z
 - **Установочный пакет:** [kospet_t4.zpk](https://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/kospet_t4/kospet_t4.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/kospet_t4/kospet_t4.zpk`
 
@@ -27,6 +27,7 @@
 - `device.zip` — содержимое для устройства (то же, что внутри пакета)
 - `project.zip` — полный проект Zepp OS
 - `kospet_t4-watch.png` — дневной, основной циферблат в полном качестве
+- `kospet_t4-night.png` — ночной циферблат в полном качестве
 - `kospet_t4-aod.png` — превью AOD в полном качестве
 - `kospet_t4-watch-200.png` — уменьшенный дневной мокап высотой 200 px
 - `kospet_t4-watch-qr.png` — мокап часов с циферблатом и QR-кодом
