@@ -11,7 +11,7 @@
 | ![Дневной · основной](BODROV-watch.png) | ![AOD](BODROV-aod.png) |
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-12T21:16:58.778Z
+- **Опубликовано:** 2026-11-12T21:23:42.204Z
 - **Установочный пакет:** [BODROV.zpk](https://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/BODROV/BODROV.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/BODROV/BODROV.zpk`
 
