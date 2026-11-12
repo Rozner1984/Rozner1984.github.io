@@ -5,39 +5,39 @@
   "name": "kospet t4",
   "slug": "kospet_t4",
   "version": "1.0.0",
-  "publishedAt": "2026-11-12T09:13:40.225Z",
+  "publishedAt": "2026-11-12T09:16:36.042Z",
   "files": {
     "kospet_t4.zpk": {
-      "sha256": "2740fa0beaa9cbbc4e2af427acbc9176ad1ee08a39003107ee58478fb5971f2a",
-      "size": 109256
+      "sha256": "10241c053c119eb856cbca93392dc6b29121b4699bbf426dfb70fe94c76007ca",
+      "size": 106677
     },
     "device.zip": {
-      "sha256": "ecfdae922dbf3c82db442fe5f7a14d61be4ec4b7b3222a69136b593611de1a04",
-      "size": 173965
+      "sha256": "f6f879ef3bc388a32e6e8147f0b0a3bb0d5ed4cb30c2f712fb4b49a9f1f1ca87",
+      "size": 168255
     },
     "project.zip": {
-      "sha256": "2f24c6667fef5477d2fa7943459e66385b49cc6f1f92beac03233e00421a8423",
-      "size": 672989
+      "sha256": "b7ead394895a48c1850ec1293d0d8dc3bc480e4f6624237e5218470699c4aee1",
+      "size": 636261
     },
     "kospet_t4.watchface.json": {
-      "sha256": "b5bcfaa751ac93b33ee74b5ba7c4be42c7534241e9cfea844bf9a5b94ef1f380",
-      "size": 370146
+      "sha256": "473c0f5efa7d58cbf9646397042da11fd789d4dd0ab1522f50c51aaa45bc5d13",
+      "size": 361174
     },
     "kospet_t4-watch.png": {
-      "sha256": "970c13e08dda5ac3263d3944862142bed57f650c8edeabca3db9e557147e604d",
-      "size": 464981
+      "sha256": "b1a19211ff16ffeb5292dcad1f376f4a3200e42e71141a4434faf9a149f18610",
+      "size": 449672
     },
     "kospet_t4-watch-200.png": {
-      "sha256": "2f4b464a640c7f330ca308904811188f67a20a51dc2e92e9c6f5733ce7c85789",
-      "size": 39459
+      "sha256": "626f88f642a00b735d157616b486a5ea0bcfa9694d22b26c6a165b01433d466a",
+      "size": 37323
     },
     "kospet_t4-aod.png": {
       "sha256": "12551baf5ed78c5b0aac24a75b83a6a30058e73751a7c2bf1cbb349f175e5a78",
       "size": 293021
     },
     "kospet_t4-watch-qr.png": {
-      "sha256": "74c577ff5bed44c9eaee3e8176cb1661ff93263f465810edb2146e6162b3ec49",
-      "size": 1338918
+      "sha256": "fada97c7aa82e3a1485fd8dd1f659bdbc3ce6fda476898154ed557a8ba71397c",
+      "size": 1316238
     }
   }
 }
