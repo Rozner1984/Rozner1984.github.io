@@ -5,39 +5,39 @@
   "name": "kospet tank",
   "slug": "kospet_tank",
   "version": "1.0.0",
-  "publishedAt": "2026-11-12T23:01:48.654Z",
+  "publishedAt": "2026-11-12T23:09:09.446Z",
   "files": {
     "kospet_tank.zpk": {
-      "sha256": "df988fec752d0fb8f7bd20f73fcff5bbf0e180d697aa9178a29e1e6c166cc314",
-      "size": 138050
+      "sha256": "21008085c1e9ad83099ea4045fedea99615075f49a28e57408eac618f4f90bd0",
+      "size": 137707
     },
     "device.zip": {
-      "sha256": "7315f4f529f1f63b5bcd3bd68242a0095000c16c2df7845e86110b9beba65760",
-      "size": 218316
+      "sha256": "d045c98bc9c8a7e456f0396664548d05ca076d438f333818f43ef4371b68a4ff",
+      "size": 217325
     },
     "project.zip": {
-      "sha256": "a578e26b05d36d7f8c4d2b3b89d7ade89ab54e0186df2816489f15aa807fc945",
-      "size": 741827
+      "sha256": "52212a4a511fb8704b5d6a4371e51d00dd05202fa2afa245db61fa9c803f49df",
+      "size": 742948
     },
     "kospet_tank.watchface.json": {
-      "sha256": "11ae4846510e5919d253e472d0622108997d201cd2c9ba6222b93b9f81296e5a",
-      "size": 462683
+      "sha256": "fc4e59f115d279ec95a92581f34ddca061c0a34fea38064e3680e2fe41fb23ea",
+      "size": 462965
     },
     "kospet_tank-watch.png": {
-      "sha256": "41ae97f9eb16f016e049b85d89fb78b8ebda6100582e4ab50dc13b63e3fafe95",
-      "size": 467824
+      "sha256": "cbfeeb86d1d2b9267d3b183aecd0844fcc4458ff72d5306d3dbf6c91c5a7896e",
+      "size": 466901
     },
     "kospet_tank-watch-200.png": {
-      "sha256": "55bc2292d6e1f85e70147aab052b560850dab728ffa5e5639cb7434e9a08ec18",
-      "size": 40732
+      "sha256": "41bc871679e7171e2e1d5f97f46e82280e52e61163705695695cf37d6d54559c",
+      "size": 40494
     },
     "kospet_tank-aod.png": {
       "sha256": "12551baf5ed78c5b0aac24a75b83a6a30058e73751a7c2bf1cbb349f175e5a78",
       "size": 293021
     },
     "kospet_tank-watch-qr.png": {
-      "sha256": "051c13d9deef8d911b5ada30cfdbe2de1d8185c92a9d95b08c7036f4df9bb0d4",
-      "size": 1344740
+      "sha256": "eb1186b75cbd47a746a4520a53211d475a17d87a2b8c669254b3a7869e6d1d1f",
+      "size": 1343596
     }
   }
 }
