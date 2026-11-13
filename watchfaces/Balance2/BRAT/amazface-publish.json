@@ -1,0 +1,51 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "3848549",
+  "name": "BRAT",
+  "slug": "BRAT",
+  "version": "1.0.0",
+  "publishedAt": "2026-11-13T23:42:40.986Z",
+  "files": {
+    "BRAT.zpk": {
+      "sha256": "33accc04733b9e92711caa6805e93f911bdf403e1e24fdd7dd7d0e921b5bf50e",
+      "size": 837622
+    },
+    "device.zip": {
+      "sha256": "172db5320becc7a30fa083ab1362c9e6f050f7f7f61b0bdae11e42a064d57c74",
+      "size": 857700
+    },
+    "project.zip": {
+      "sha256": "4f2217eae4c22cb1c42a6562888074d9379e908c7730f299ba6448cd02253410",
+      "size": 2914029
+    },
+    "BRAT.watchface.json": {
+      "sha256": "67ae552e29302998cc904c830aa62de62f1b21ce95359e4423feba8393a47f97",
+      "size": 2689425
+    },
+    "BRAT-watch.png": {
+      "sha256": "f74fca94b0a22a324dd03a79f5adb28c6db576a9b582ce6ac5f6a9c65ba3ec39",
+      "size": 807034
+    },
+    "BRAT-watch-200.png": {
+      "sha256": "e476effd80645bb6f0d75f851fa2cbb8bb681f9a291e79dfa59b70f9f631441f",
+      "size": 52757
+    },
+    "BRAT-night.png": {
+      "sha256": "21b67b797bd3a18f48471027abe3de7f8b27f0f9d090b22d75d072e11b9a6a03",
+      "size": 713216
+    },
+    "BRAT-aod.png": {
+      "sha256": "cc81244ffe94e4113906035d6c01be4e32b12bdf759a156c3a1240327e520a9a",
+      "size": 308057
+    },
+    "BRAT-tap-zones.png": {
+      "sha256": "86e148d7049964ed80b93896d12519dc13f0b54d63c5cd8ce819116a316e3fda",
+      "size": 1428847
+    },
+    "BRAT-watch-qr.png": {
+      "sha256": "b1f7b7b955b702fcd304712f48545ad8b4464d8df69835ae033006415e6bd2cb",
+      "size": 1698515
+    }
+  }
+}
