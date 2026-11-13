@@ -11,7 +11,7 @@
 | ![Дневной · основной](war_in_Chechnya-watch.png) | ![AOD](war_in_Chechnya-aod.png) |
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-13T19:05:05.242Z
+- **Опубликовано:** 2026-11-13T19:09:52.825Z
 - **Установочный пакет:** [war_in_Chechnya.zpk](https://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/war_in_Chechnya/war_in_Chechnya.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/war_in_Chechnya/war_in_Chechnya.zpk`
 
