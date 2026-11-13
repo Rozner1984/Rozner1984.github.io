@@ -5,27 +5,27 @@
   "name": "BRAT",
   "slug": "BRAT",
   "version": "1.0.0",
-  "publishedAt": "2026-11-13T23:42:40.986Z",
+  "publishedAt": "2026-11-13T23:58:19.409Z",
   "files": {
     "BRAT.zpk": {
-      "sha256": "33accc04733b9e92711caa6805e93f911bdf403e1e24fdd7dd7d0e921b5bf50e",
-      "size": 837622
+      "sha256": "7004baba5da913080c8e42c823048ac0ad196e16e35b5ec4ff85eba9772b98c1",
+      "size": 845168
     },
     "device.zip": {
-      "sha256": "172db5320becc7a30fa083ab1362c9e6f050f7f7f61b0bdae11e42a064d57c74",
-      "size": 857700
+      "sha256": "9cafe9813e2ff4180ac05392876ddddf6c98d8f48e033ad040e1abc39eaea0cb",
+      "size": 865296
     },
     "project.zip": {
-      "sha256": "4f2217eae4c22cb1c42a6562888074d9379e908c7730f299ba6448cd02253410",
-      "size": 2914029
+      "sha256": "2de865bc852fd6637a6c02b450805d8e757b8adaa5068e6cdd949667146c3b4a",
+      "size": 2941481
     },
     "BRAT.watchface.json": {
-      "sha256": "67ae552e29302998cc904c830aa62de62f1b21ce95359e4423feba8393a47f97",
-      "size": 2689425
+      "sha256": "73a2186e5198315cc52276af0abb426675b60495ba390be8e69be7d265a7e93c",
+      "size": 2691752
     },
     "BRAT-watch.png": {
-      "sha256": "f74fca94b0a22a324dd03a79f5adb28c6db576a9b582ce6ac5f6a9c65ba3ec39",
-      "size": 807034
+      "sha256": "a1a70c5020a5391fed645ef8ccd1f8ed7e2f53289245f2c64ee6f4f34dc0441e",
+      "size": 807114
     },
     "BRAT-watch-200.png": {
       "sha256": "e476effd80645bb6f0d75f851fa2cbb8bb681f9a291e79dfa59b70f9f631441f",
@@ -40,8 +40,8 @@
       "size": 308057
     },
     "BRAT-tap-zones.png": {
-      "sha256": "86e148d7049964ed80b93896d12519dc13f0b54d63c5cd8ce819116a316e3fda",
-      "size": 1428847
+      "sha256": "116674f62a0b472694098b55bcc5f773587a7b92e435d2a067514703bde9d16b",
+      "size": 1434692
     },
     "BRAT-watch-qr.png": {
       "sha256": "b1f7b7b955b702fcd304712f48545ad8b4464d8df69835ae033006415e6bd2cb",
