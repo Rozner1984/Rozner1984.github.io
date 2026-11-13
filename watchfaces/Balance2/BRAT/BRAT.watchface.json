@@ -25,8 +25,8 @@
     "versionCode": 1
   },
   "watchSettings": {
-    "dayNightEnabled": false,
-    "dayNightStart": 22,
+    "dayNightEnabled": true,
+    "dayNightStart": 23,
     "dayNightEnd": 7
   },
   "background": {
@@ -67,25 +67,7 @@
         "tap_app_id": 0,
         "tap_app_url": "pages/index"
       },
-      "tapZones": [
-        {
-          "id": "tap_001",
-          "name": "Тап-зона 1",
-          "x": 0,
-          "y": 0,
-          "w": 300,
-          "h": 100,
-          "visible": true,
-          "locked": false,
-          "props": {
-            "tap_action": "METRIC",
-            "tap_metric": "SETTING",
-            "tap_app_id": 0,
-            "tap_app_url": "pages/index",
-            "tap_flash_bright": true
-          }
-        }
-      ]
+      "tapZones": []
     },
     {
       "id": "weekday_001",
@@ -408,13 +390,74 @@
         "tap_app_id": 0,
         "tap_app_url": "pages/index"
       }
+    },
+    {
+      "id": "text_003",
+      "defId": "text",
+      "name": "Текст",
+      "x": 140,
+      "y": 140,
+      "w": 200,
+      "h": 50,
+      "visible": true,
+      "locked": false,
+      "props": {
+        "text": "",
+        "data_source": "NONE",
+        "text_size": 36,
+        "scale_x": 1,
+        "scale_y": 1,
+        "fit_bounds": false,
+        "fit_min_size": 8,
+        "arc_enabled": false,
+        "arc_radius": 150,
+        "arc_bottom": false,
+        "color": "#ffffff",
+        "align_h": "CENTER_H",
+        "align_v": "CENTER_V",
+        "text_style": "NONE",
+        "font_weight": "400",
+        "font_style": "normal",
+        "letter_spacing": 0,
+        "line_height": 1,
+        "text_alpha": 100,
+        "text_blend": 0,
+        "text_blend_color": "#000000",
+        "float_enabled": false,
+        "float_interval": "5",
+        "float_step": 6,
+        "float_margin": 12,
+        "tap_action": "NONE",
+        "tap_metric": "STATUS",
+        "tap_app_id": 0,
+        "tap_app_url": "pages/index"
+      },
+      "tapZones": [
+        {
+          "id": "tap_001",
+          "name": "Тап-зона 1",
+          "x": 100,
+          "y": -40,
+          "w": 200,
+          "h": 50,
+          "visible": true,
+          "locked": false,
+          "props": {
+            "tap_action": "SETTINGS",
+            "tap_metric": "STATUS",
+            "tap_app_id": 0,
+            "tap_app_url": "pages/index",
+            "tap_flash_bright": true
+          }
+        }
+      ]
     }
   ],
   "weatherIconsColor": "#000000",
   "nextIndex": {
     "time_hm": 1,
     "date_full": 2,
-    "text": 2,
+    "text": 3,
     "date_day": 3,
     "date_month": 2,
     "weekday": 1,
@@ -531,25 +574,7 @@
             "tap_app_id": 0,
             "tap_app_url": "pages/index"
           },
-          "tapZones": [
-            {
-              "id": "tap_001",
-              "name": "Тап-зона 1",
-              "x": 0,
-              "y": 0,
-              "w": 300,
-              "h": 100,
-              "visible": true,
-              "locked": false,
-              "props": {
-                "tap_action": "METRIC",
-                "tap_metric": "SETTING",
-                "tap_app_id": 0,
-                "tap_app_url": "pages/index",
-                "tap_flash_bright": true
-              }
-            }
-          ]
+          "tapZones": []
         },
         {
           "id": "weekday_001",
@@ -872,6 +897,67 @@
             "tap_app_id": 0,
             "tap_app_url": "pages/index"
           }
+        },
+        {
+          "id": "text_003",
+          "defId": "text",
+          "name": "Текст",
+          "x": 140,
+          "y": 140,
+          "w": 200,
+          "h": 50,
+          "visible": true,
+          "locked": false,
+          "props": {
+            "text": "",
+            "data_source": "NONE",
+            "text_size": 36,
+            "scale_x": 1,
+            "scale_y": 1,
+            "fit_bounds": false,
+            "fit_min_size": 8,
+            "arc_enabled": false,
+            "arc_radius": 150,
+            "arc_bottom": false,
+            "color": "#ffffff",
+            "align_h": "CENTER_H",
+            "align_v": "CENTER_V",
+            "text_style": "NONE",
+            "font_weight": "400",
+            "font_style": "normal",
+            "letter_spacing": 0,
+            "line_height": 1,
+            "text_alpha": 100,
+            "text_blend": 0,
+            "text_blend_color": "#000000",
+            "float_enabled": false,
+            "float_interval": "5",
+            "float_step": 6,
+            "float_margin": 12,
+            "tap_action": "NONE",
+            "tap_metric": "STATUS",
+            "tap_app_id": 0,
+            "tap_app_url": "pages/index"
+          },
+          "tapZones": [
+            {
+              "id": "tap_001",
+              "name": "Тап-зона 1",
+              "x": 100,
+              "y": -40,
+              "w": 200,
+              "h": 50,
+              "visible": true,
+              "locked": false,
+              "props": {
+                "tap_action": "SETTINGS",
+                "tap_metric": "STATUS",
+                "tap_app_id": 0,
+                "tap_app_url": "pages/index",
+                "tap_flash_bright": true
+              }
+            }
+          ]
         }
       ],
       "background": {
@@ -882,7 +968,7 @@
       "nextIndex": {
         "time_hm": 1,
         "date_full": 2,
-        "text": 2,
+        "text": 3,
         "date_day": 3,
         "date_month": 2,
         "weekday": 1,
