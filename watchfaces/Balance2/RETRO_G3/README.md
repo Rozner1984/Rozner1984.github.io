@@ -11,7 +11,7 @@
 | ![Дневной · основной](RETRO_G3-watch.png) | ![AOD](RETRO_G3-aod.png) |
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-14T19:26:13.022Z
+- **Опубликовано:** 2026-11-14T19:28:35.755Z
 - **Установочный пакет:** [RETRO_G3.zpk](https://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/RETRO_G3/RETRO_G3.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/RETRO_G3/RETRO_G3.zpk`
 
