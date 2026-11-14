@@ -17,7 +17,7 @@
 ![Зоны нажатия](BRAT-tap-zones.png)
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-13T23:58:19.409Z
+- **Опубликовано:** 2026-11-14T00:07:36.286Z
 - **Установочный пакет:** [BRAT.zpk](https://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/BRAT/BRAT.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/BRAT/BRAT.zpk`
 
