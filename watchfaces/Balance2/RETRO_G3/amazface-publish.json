@@ -1,0 +1,43 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "6280611",
+  "name": "RETRO G3",
+  "slug": "RETRO_G3",
+  "version": "1.0.0",
+  "publishedAt": "2026-11-14T19:11:29.930Z",
+  "files": {
+    "RETRO_G3.zpk": {
+      "sha256": "b73892cf2fe5522fbc0dadc303d65a4dca497fba00335cea759ed6dcce3d581f",
+      "size": 352328
+    },
+    "device.zip": {
+      "sha256": "5cb7419f570668dd27d9594ac649f713f0c2580320208697ca9ad4b0c0ea5e95",
+      "size": 401325
+    },
+    "project.zip": {
+      "sha256": "03439d06c89e39c11ae366ab188c46b3a3d15a716ce9498005b97974542f3910",
+      "size": 1190068
+    },
+    "RETRO_G3.watchface.json": {
+      "sha256": "583a3db0dc84cc37ca58bda5dd4dfa1bda1da5e78a12c93d0c2c48a3143481d1",
+      "size": 1085927
+    },
+    "RETRO_G3-watch.png": {
+      "sha256": "e73f8346cb0a630f0177a9ef6f203663a21186d3c622cb601adbe8d7e37f1926",
+      "size": 495709
+    },
+    "RETRO_G3-watch-200.png": {
+      "sha256": "418e3e4c7b2ac6fd062b4c0edac7209b409c1c37f0bb6d2aeeef47ec071138a1",
+      "size": 41436
+    },
+    "RETRO_G3-aod.png": {
+      "sha256": "12551baf5ed78c5b0aac24a75b83a6a30058e73751a7c2bf1cbb349f175e5a78",
+      "size": 293021
+    },
+    "RETRO_G3-watch-qr.png": {
+      "sha256": "16674d271de5dc66fecce93bda4f51e3b8feb1870525665e72b67b18a1b44ef3",
+      "size": 1362407
+    }
+  }
+}
