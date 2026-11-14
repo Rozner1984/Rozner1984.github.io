@@ -5,27 +5,27 @@
   "name": "RETRO G3",
   "slug": "RETRO_G3",
   "version": "1.0.0",
-  "publishedAt": "2026-11-14T19:26:13.022Z",
+  "publishedAt": "2026-11-14T19:28:35.755Z",
   "files": {
     "RETRO_G3.zpk": {
-      "sha256": "610f4d4a18e34918b8b2339657ea8ce6cad09efb93395dde686a775639b9d078",
+      "sha256": "69594831e7d1d7b929006e1e275b646c2cbcd1b871d49144ad25185821e438c2",
       "size": 352801
     },
     "device.zip": {
-      "sha256": "2df448971b301b1941001a8ea7f9e2fed3b476933a406a51cdf7061f1af6ba38",
-      "size": 402712
+      "sha256": "3c1353886b75b01ee2fa2fe2407b632596c33e6f850db2bc3202995f2c1c6a71",
+      "size": 402718
     },
     "project.zip": {
-      "sha256": "bdb5778309b0da81e43ca5c73de3391e09a71252808614788c7b5a782d5d84b7",
-      "size": 1193310
+      "sha256": "7c614b28dbb2b4402b3b07b30bc8054b8d70216d13867128817c21639d0010d1",
+      "size": 1193322
     },
     "RETRO_G3.watchface.json": {
       "sha256": "06f2e341a9677f26f8c16657d80e8563c914d95561639cb1fa57ffb02d2e6d9b",
       "size": 1086673
     },
     "RETRO_G3-watch.png": {
-      "sha256": "6e32ae35532b689e321de4d3dfa209e2543d2ef5a5c87bbe7c6a044a2773a8be",
-      "size": 497124
+      "sha256": "c1e9db3bdd1264f4e593ddbb6cad611d258661bf1def537166a8520a4a55db2a",
+      "size": 497017
     },
     "RETRO_G3-watch-200.png": {
       "sha256": "d3d7297b870a536179500171e712a6475bfe0b09b1ff4d738c69751052857c05",
@@ -36,8 +36,8 @@
       "size": 293021
     },
     "RETRO_G3-watch-qr.png": {
-      "sha256": "e6f33566b01014e976534b8d65ed5b9da1c4a03f62260037c8f1fcd80d2b25d7",
-      "size": 1364416
+      "sha256": "6b9c310b579e845b4a4a041ffb7f2dfe63ede822611d5972c270c8edf837634b",
+      "size": 1364444
     }
   }
 }
