@@ -5,47 +5,47 @@
   "name": "BRAT",
   "slug": "BRAT",
   "version": "1.0.0",
-  "publishedAt": "2026-11-14T00:07:36.286Z",
+  "publishedAt": "2026-11-15T14:45:47.294Z",
   "files": {
     "BRAT.zpk": {
-      "sha256": "2945f3f8ec8a3aa851158beac9ea6289ef097072db2c3bcf8d7fb014c80beb30",
-      "size": 843587
+      "sha256": "e2c3542dc43cc214a1c44278959c7e74697786f7b3c77f39dbfe95cea26c1ad4",
+      "size": 844503
     },
     "device.zip": {
-      "sha256": "b4bb6b02ee900c48be202a7f31376d9a9ac168a4a9d96e456ae440ea9fa435db",
-      "size": 863638
+      "sha256": "b342b41b2a3e8c5eb11048a20e9ad66e7e4e1b625d92c9ad986741f73cab5224",
+      "size": 864667
     },
     "project.zip": {
-      "sha256": "5081d510df9fec8883fec2b4f066e18675a7c043f6982572cdd079a882cf81f2",
-      "size": 2799416
+      "sha256": "aacfe4888c97e86d741d78815c6c686261d3dc0eefdb463a33516b3f9d4a65c4",
+      "size": 2943482
     },
     "BRAT.watchface.json": {
-      "sha256": "b973c00b60fb16765a455e5fd1ef21e897012f1667a7013b3a6cb266e25d0e85",
-      "size": 2661834
+      "sha256": "b03dad77d92ed0a76d047a8d2082b139e5863c0552275a3bb02027e276941da2",
+      "size": 2693977
     },
     "BRAT-watch.png": {
-      "sha256": "76945a73047f25df1d931ec18fa0e61570ec2c328dc37fa0572d1f26f3a3e894",
-      "size": 809559
+      "sha256": "a828d4b1b38476693c05714bcc569c85faedf86f4b4de0f97181ae811f068ae2",
+      "size": 806635
     },
     "BRAT-watch-200.png": {
-      "sha256": "e83565e5c2ae80d74be5e946a6aac71f02cf495fc9a057a8c899a688936c5aa9",
-      "size": 52828
+      "sha256": "5bd2e847e81120008b91f46949e20817b4229762e2c2af521bed150597cc1177",
+      "size": 52855
     },
     "BRAT-night.png": {
-      "sha256": "908a529abfaa898c062573a940c6ebc154e2366f5b929631686a242cde91bcb0",
-      "size": 716644
+      "sha256": "e920cc70647ac689e753b530083dc294c41954ecfbfbd76eee78af777a107d31",
+      "size": 712631
     },
     "BRAT-aod.png": {
       "sha256": "cc81244ffe94e4113906035d6c01be4e32b12bdf759a156c3a1240327e520a9a",
       "size": 308057
     },
     "BRAT-tap-zones.png": {
-      "sha256": "1a80612e14fc4449d3a92fd7f9c9060166c0f9784ca4192f498835d4cd5421ae",
-      "size": 1437413
+      "sha256": "ffe111d2ef271cbe41a67237190229d1f05cd944d61dc8df00ca5eef79604123",
+      "size": 1434415
     },
     "BRAT-watch-qr.png": {
-      "sha256": "2a9edcb171a0efa965f56128ce3dd86c8fb770cf009280cb4a07fbb766184d65",
-      "size": 1701227
+      "sha256": "813373645adb14cfcefcbb5358ee8cd1e7095d96a088b87d28287243b768ee74",
+      "size": 1697754
     }
   }
 }
