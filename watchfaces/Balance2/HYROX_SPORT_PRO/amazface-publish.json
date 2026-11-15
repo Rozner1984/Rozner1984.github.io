@@ -5,18 +5,18 @@
   "name": "HYROX SPORT PRO",
   "slug": "HYROX_SPORT_PRO",
   "version": "1.0.0",
-  "publishedAt": "2026-11-15T16:55:16.706Z",
+  "publishedAt": "2026-11-15T16:59:34.519Z",
   "files": {
     "HYROX_SPORT_PRO.zpk": {
-      "sha256": "75ef41a2f58c1b13eb12f1ac6e4f54d648afab0ce21e8cb6dd70c466482cb69b",
-      "size": 238155
+      "sha256": "1186109365f05f78e0f47465a79baf718b623acc743f272d82243dca614b6c3b",
+      "size": 238152
     },
     "device.zip": {
-      "sha256": "67c4523caf539513b9a9162998e20827a8d673c0a3bdd227633880469d28f9fc",
-      "size": 238246
+      "sha256": "893bfebeb2f9d72ae4225e9815b366d2a4e3bbff38c9533bf0c688be069ef5f6",
+      "size": 238245
     },
     "project.zip": {
-      "sha256": "2f49e3a7d0cf8c05a868e37c7c46b5c4fcf50a1017f55344a52271b163d1d1c8",
+      "sha256": "efe70074e19acee73dd452f16716d3c60767a88bb7c2c83daef1ca64b43201f6",
       "size": 986000
     },
     "HYROX_SPORT_PRO.watchface.json": {
