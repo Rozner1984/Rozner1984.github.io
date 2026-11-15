@@ -5,39 +5,39 @@
   "name": "HYROX SPORT PRO",
   "slug": "HYROX_SPORT_PRO",
   "version": "1.0.0",
-  "publishedAt": "2026-11-15T16:15:03.988Z",
+  "publishedAt": "2026-11-15T16:20:03.353Z",
   "files": {
     "HYROX_SPORT_PRO.zpk": {
-      "sha256": "c35237aef652f29b6cf1545d3d2763c8bb5e57ed10576d560945bed3c3c47424",
-      "size": 226952
+      "sha256": "9093ae9144f766c3836cb8c8c46dcd6ea6fdb461cf3bdd8b7ad666b7d77de68f",
+      "size": 227468
     },
     "device.zip": {
-      "sha256": "87d2462fcdd0b4a8ff9c1a915057268dee8d117c9e3c442fecd032d1816eae15",
-      "size": 226827
+      "sha256": "7a8fec29810957ce4e967162b07047d16505ffe6c319032b3498180e99302583",
+      "size": 227354
     },
     "project.zip": {
-      "sha256": "3317cdf486c864f2b6aa968e9d9774a8c8aff43d82be5cdff5be7b7aaf337188",
-      "size": 979317
+      "sha256": "3581a8b68ac720306fd804fb373fe9dd9a3bff140c1ac169176568ebf0d37547",
+      "size": 984412
     },
     "HYROX_SPORT_PRO.watchface.json": {
-      "sha256": "6d61d8a7038e62ef083aad964c9d160b1eff7ae970b8abb6f5bfb71fdc20c04e",
-      "size": 494846
+      "sha256": "5d1ffdd101752acf4496c1f34890849c24183357012862193b52098bef95faf2",
+      "size": 497784
     },
     "HYROX_SPORT_PRO-watch.png": {
-      "sha256": "cfbfee7d21fe2518e333d22f6178264f59c781b726f2604caf63f3ad05c28ab5",
-      "size": 639521
+      "sha256": "0188e836cd02b9cfbf4d753d7d72915c2702c2cd72cba8cfb53e8313d2b8f9a3",
+      "size": 641339
     },
     "HYROX_SPORT_PRO-watch-200.png": {
-      "sha256": "010663e33ae181f2ff270e6fee5c95873de32a50645d1943fcc729409ccd79bd",
-      "size": 46716
+      "sha256": "d91d7229e5592def82b4eb6f914139a3624274d3cc289bb619f9f7311cb51639",
+      "size": 46891
     },
     "HYROX_SPORT_PRO-aod.png": {
       "sha256": "12551baf5ed78c5b0aac24a75b83a6a30058e73751a7c2bf1cbb349f175e5a78",
       "size": 293021
     },
     "HYROX_SPORT_PRO-watch-qr.png": {
-      "sha256": "5ab6b485e6b03c96e76ff6317f8552feee92d493f0e21e678fb7dd1f28a6048b",
-      "size": 1545670
+      "sha256": "7a182fe1d4d38bab7e792a65b8eab06dcd66f2d7d5dc6454131b4f2948f08a9b",
+      "size": 1549186
     }
   }
 }
