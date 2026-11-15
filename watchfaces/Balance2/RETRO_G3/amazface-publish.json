@@ -5,39 +5,39 @@
   "name": "RETRO G3",
   "slug": "RETRO_G3",
   "version": "1.0.0",
-  "publishedAt": "2026-11-14T19:28:35.755Z",
+  "publishedAt": "2026-11-15T14:51:50.708Z",
   "files": {
     "RETRO_G3.zpk": {
-      "sha256": "69594831e7d1d7b929006e1e275b646c2cbcd1b871d49144ad25185821e438c2",
-      "size": 352801
+      "sha256": "c8aa68e0179ab88504336d933cd7fb57744fc6c6fcd4857ad71a3032e9390449",
+      "size": 353154
     },
     "device.zip": {
-      "sha256": "3c1353886b75b01ee2fa2fe2407b632596c33e6f850db2bc3202995f2c1c6a71",
-      "size": 402718
+      "sha256": "1f781789dea4ee71806eef1df469d6c75d5ac47bc638baaa64bc16209a463538",
+      "size": 403738
     },
     "project.zip": {
-      "sha256": "7c614b28dbb2b4402b3b07b30bc8054b8d70216d13867128817c21639d0010d1",
-      "size": 1193322
+      "sha256": "aeb7e8a013b3877ed873a5a56f32f47da41d034da7caae93d2abbe41758afa1f",
+      "size": 1188804
     },
     "RETRO_G3.watchface.json": {
-      "sha256": "06f2e341a9677f26f8c16657d80e8563c914d95561639cb1fa57ffb02d2e6d9b",
-      "size": 1086673
+      "sha256": "6211d2687aeeb5add59d9ddb859bc757b8886a77255ecf9512ae4106d579e33b",
+      "size": 1085217
     },
     "RETRO_G3-watch.png": {
-      "sha256": "c1e9db3bdd1264f4e593ddbb6cad611d258661bf1def537166a8520a4a55db2a",
-      "size": 497017
+      "sha256": "a424d4a03a2835665cb16c0d9b037a89a803c44bae6ad6ea809eae1b4e611d1a",
+      "size": 490588
     },
     "RETRO_G3-watch-200.png": {
-      "sha256": "d3d7297b870a536179500171e712a6475bfe0b09b1ff4d738c69751052857c05",
-      "size": 41324
+      "sha256": "711ea5158dd1dd2e382b7953fee8d4f83c5f8f76909ba053a0e2b9a49ab74876",
+      "size": 41227
     },
     "RETRO_G3-aod.png": {
       "sha256": "12551baf5ed78c5b0aac24a75b83a6a30058e73751a7c2bf1cbb349f175e5a78",
       "size": 293021
     },
     "RETRO_G3-watch-qr.png": {
-      "sha256": "6b9c310b579e845b4a4a041ffb7f2dfe63ede822611d5972c270c8edf837634b",
-      "size": 1364444
+      "sha256": "2ec5735bc58edaedc6d4f1b783701ad68fcc7fb4f5fc6fd16b5e2758152a2b64",
+      "size": 1364187
     }
   }
 }
