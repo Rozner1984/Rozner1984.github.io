@@ -11,7 +11,7 @@
 | ![Дневной · основной](HYROX_SPORT_PRO-watch.png) | ![AOD](HYROX_SPORT_PRO-aod.png) |
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-15T16:32:02.294Z
+- **Опубликовано:** 2026-11-15T16:35:09.530Z
 - **Установочный пакет:** [HYROX_SPORT_PRO.zpk](https://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/HYROX_SPORT_PRO/HYROX_SPORT_PRO.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/HYROX_SPORT_PRO/HYROX_SPORT_PRO.zpk`
 
