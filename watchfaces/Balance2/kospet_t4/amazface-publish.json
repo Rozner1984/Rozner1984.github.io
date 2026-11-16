@@ -5,39 +5,39 @@
   "name": "kospet t4",
   "slug": "kospet_t4",
   "version": "1.0.0",
-  "publishedAt": "2026-11-16T09:57:58.059Z",
+  "publishedAt": "2026-11-16T10:00:42.160Z",
   "files": {
     "kospet_t4.zpk": {
-      "sha256": "a225a0a54c03abb05f16eb11f9971e7d1e8024c8fc10da962f023cf8fdf32cf3",
-      "size": 201918
+      "sha256": "ee5792ce7cac42a50f124fa2d8cfdc1355ac7e8ac2cc6fb52acbc97afff10c6b",
+      "size": 181143
     },
     "device.zip": {
-      "sha256": "caafb6b978697f3bc99e36223f00a1ef29f848134a71824c0d581676708292ee",
-      "size": 261903
+      "sha256": "d19307eff2bb273f7cc8a857a7e9570ecc98c6f9cfbb348fedb93cdd47083965",
+      "size": 202486
     },
     "project.zip": {
-      "sha256": "a4c49ad15a7a75cd7693490e1eead42ef45029fe78ce15699f81355e61410876",
-      "size": 837267
+      "sha256": "3b6bc28d2ed5d40b1660e28f1e81f3486ccf0283a4b6b037077d934d68877e68",
+      "size": 458801
     },
     "kospet_t4.watchface.json": {
-      "sha256": "eb251647341ebbd90cb6e8ce7d65a695932a0aa09ba8201ff58319a8b7d8fb22",
-      "size": 648981
+      "sha256": "77c9b64f9fe0a870c7452cd1b303eaebd7ec2a1a4496ecfdfa522c8a17dd38af",
+      "size": 556559
     },
     "kospet_t4-watch.png": {
-      "sha256": "e459f2bae8f6023d30f519f767f9251e007d99c466e97977c0ccd6321f355047",
-      "size": 489364
+      "sha256": "00b8fb7cd6bafdbf771cdbb9c08224d55518a6780cd1585e2892d72aceb943a2",
+      "size": 489730
     },
     "kospet_t4-watch-200.png": {
-      "sha256": "e05bdbe2a6e989db64be7088a8f9558cff794b57e69238291081111c9ede8440",
-      "size": 43195
+      "sha256": "c98f3b9061d5632096e57d2607fca91d4d2d54c2c50d4f58e10e720c92a7510d",
+      "size": 43234
     },
     "kospet_t4-aod.png": {
-      "sha256": "927d4e0ae84939f24f2e66bb1863f10231f4c2e3283d7d909d45ddc40186ea8b",
-      "size": 369817
+      "sha256": "9a7cf5881acbcb4204428289c71b706f65280f093328df39d57df37544055e4c",
+      "size": 321870
     },
     "kospet_t4-watch-qr.png": {
-      "sha256": "78695368223933700c1d70c6d1d4eb4fd7ec55be4eb65a5c14ae662b64b83f11",
-      "size": 1371250
+      "sha256": "3aa5f01beb5c4f4b9d64102fd91c0bbe1ef3ef4835c3b79e9eb5c213c00aa47e",
+      "size": 1371734
     }
   }
 }
