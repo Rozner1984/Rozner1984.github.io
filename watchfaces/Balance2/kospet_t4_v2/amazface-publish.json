@@ -1,0 +1,43 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "7365513",
+  "name": "kospet t4 v2",
+  "slug": "kospet_t4_v2",
+  "version": "1.0.0",
+  "publishedAt": "2026-11-16T20:35:13.131Z",
+  "files": {
+    "kospet_t4_v2.zpk": {
+      "sha256": "275e113599c00e30f0d416bcb6328b0374c376ff1783e115577494b19adce861",
+      "size": 201875
+    },
+    "device.zip": {
+      "sha256": "2049d44259645513c48c2b31e7558413e0ea2f38492f86b859d383b856012dc7",
+      "size": 262803
+    },
+    "project.zip": {
+      "sha256": "ff6fdc57a009579158e57950119493aca490a9cfbfe158517e72ef5b8699ba6d",
+      "size": 846709
+    },
+    "kospet_t4_v2.watchface.json": {
+      "sha256": "915b4aef78a94435d9aed9560c379158cb3b8ee71aafed3cd0f2d28efe605e53",
+      "size": 656364
+    },
+    "kospet_t4_v2-watch.png": {
+      "sha256": "2579c559e93ea5e4308547d6019e0ed33136ef6399f5c74b771ced50c5d831a9",
+      "size": 499633
+    },
+    "kospet_t4_v2-watch-200.png": {
+      "sha256": "532b7e1c476adea246af07c6deda56689289c01ce9f6a1a08633373195fee4e9",
+      "size": 43948
+    },
+    "kospet_t4_v2-aod.png": {
+      "sha256": "80250e8b092c093a0c63b32de745cf9e3f0715aae37c875f26d760ed91862b79",
+      "size": 323459
+    },
+    "kospet_t4_v2-watch-qr.png": {
+      "sha256": "155e47ca960f6ff1850b139246c1f1be28ee259e2cf0b20133055fe1a6f1205c",
+      "size": 1385142
+    }
+  }
+}
