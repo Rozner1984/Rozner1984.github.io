@@ -1,0 +1,43 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "6765570",
+  "name": "Fitnes Pro",
+  "slug": "Fitnes_Pro",
+  "version": "1.0.0",
+  "publishedAt": "2026-11-16T21:49:47.849Z",
+  "files": {
+    "Fitnes_Pro.zpk": {
+      "sha256": "d54fbbbf5df8514d2822958a1d811f1340d975cac7ec7457efff33a39531a586",
+      "size": 231463
+    },
+    "device.zip": {
+      "sha256": "cdae3b6bad3b93cabc48dcedef0e22e0795104a9b0a73066091a3d5538e32a7b",
+      "size": 232179
+    },
+    "project.zip": {
+      "sha256": "b35f92d92b55e01f3c9ebd277bbcd1c060fd68892122f7a75ef6c769557b60d0",
+      "size": 896256
+    },
+    "Fitnes_Pro.watchface.json": {
+      "sha256": "3062f77d8c2d10358093df0f43645ecdc8d1b9f95b9d74c19fb15880559b70df",
+      "size": 509818
+    },
+    "Fitnes_Pro-watch.png": {
+      "sha256": "66b8ad497f447092c65a4558201ca9066055f1ae6dd6d8046283ab7286699974",
+      "size": 571587
+    },
+    "Fitnes_Pro-watch-200.png": {
+      "sha256": "c768963559fec2098bd670b8ff7be31c2141333d6da07d8a8e94a1997f4928de",
+      "size": 42844
+    },
+    "Fitnes_Pro-aod.png": {
+      "sha256": "12551baf5ed78c5b0aac24a75b83a6a30058e73751a7c2bf1cbb349f175e5a78",
+      "size": 293021
+    },
+    "Fitnes_Pro-watch-qr.png": {
+      "sha256": "5f878a0ff264c90b65fa188b224f9644a686d64f2153ecc7122244aba18a575d",
+      "size": 1451552
+    }
+  }
+}
