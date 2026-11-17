@@ -5,39 +5,39 @@
   "name": "Fitnes Pro",
   "slug": "Fitnes_Pro",
   "version": "1.0.0",
-  "publishedAt": "2026-11-17T14:48:12.169Z",
+  "publishedAt": "2026-11-17T14:49:35.131Z",
   "files": {
     "Fitnes_Pro.zpk": {
-      "sha256": "a3d5a469628352a37c36ba599172e1b40e1fe19fcc145a10e707f0571fdfd7a7",
-      "size": 400013
+      "sha256": "f86cbcbfb86b25fd7daeb3fc0bb9efa68df9fdf9a59512e1ab5de959d86027c6",
+      "size": 399740
     },
     "device.zip": {
-      "sha256": "626f3174922161ab8155e67981507b5d0d491872b989bf7690393e85c798ffae",
-      "size": 402296
+      "sha256": "00f069a358ada0e2655370ae2030bf76089cd97145fa3cdfd3110df43e0dd942",
+      "size": 402029
     },
     "project.zip": {
-      "sha256": "dcc696780edd84fef4acdf7cdc007228f3eaf5f6f6d96c24d2ab8204ee285a94",
-      "size": 1514190
+      "sha256": "494917b7470061c28c3d5ae21630474923f5379afbb3fcefb01109d7e7e737c9",
+      "size": 1517915
     },
     "Fitnes_Pro.watchface.json": {
-      "sha256": "2f0283932778eb7893fea3fbc8bad5c9e0c742bd6ce3b7fa460681471f3c1b5a",
-      "size": 945086
+      "sha256": "5115a25479231e3a574bf206d8ce42d807758538a00b32bd6a1257f8f516fe85",
+      "size": 945910
     },
     "Fitnes_Pro-watch.png": {
-      "sha256": "00dfd5e4143702ff8568d38631fa8138afb0bb3dc2086159ba56b5e9b4dc5ba5",
-      "size": 753668
+      "sha256": "d466939bd8d332c1c7f0f659ee961c2a7108999a601c15e6cf1f64c294da3336",
+      "size": 755915
     },
     "Fitnes_Pro-watch-200.png": {
-      "sha256": "4d22997f46ef5e34149d1e37f31672fd709e983088a54ba71b29401b176520a7",
-      "size": 51092
+      "sha256": "198c84067189e5b6558307837a12de4a7ee557be053ca8455dd0ef2a06c60908",
+      "size": 51097
     },
     "Fitnes_Pro-aod.png": {
       "sha256": "12551baf5ed78c5b0aac24a75b83a6a30058e73751a7c2bf1cbb349f175e5a78",
       "size": 293021
     },
     "Fitnes_Pro-watch-qr.png": {
-      "sha256": "e8623c4c190860bf1b4ae7afda4b5457e4748a7af9d9e5e8aa63f39ba95a57dc",
-      "size": 1631791
+      "sha256": "937ca37929deaa7ca3067e662f3553dfeacae927d2bf5e3c2cec8cc4b0022909",
+      "size": 1633487
     }
   }
 }
