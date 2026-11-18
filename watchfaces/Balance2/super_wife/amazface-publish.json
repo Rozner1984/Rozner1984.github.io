@@ -5,39 +5,39 @@
   "name": "super wife",
   "slug": "super_wife",
   "version": "1.0.0",
-  "publishedAt": "2026-11-18T07:36:46.478Z",
+  "publishedAt": "2026-11-18T07:41:48.232Z",
   "files": {
     "super_wife.zpk": {
-      "sha256": "d205e899d87fe7c4dded8b965ec51d1fe6132db4e97d4bcf3d9bf9919ab673d8",
-      "size": 154538
+      "sha256": "b3be15c9be31e801f9645d48765af9dea14fc181fe5c371aec6cb5a16c59de46",
+      "size": 152533
     },
     "device.zip": {
-      "sha256": "6dc30b597a27f9d871ad0bd1d8af209bbc9142f93a80f737b2e221d62bffbaa5",
-      "size": 184738
+      "sha256": "32d87ccc84019ec941501f715b0347397b10df7c4ec0c9c8f1774fffc9cc4a5c",
+      "size": 181787
     },
     "project.zip": {
-      "sha256": "5bced81921697ec21cb27ee318c4ececa81fef38dff4ffcbc65c073d2e1c0bcd",
-      "size": 1179851
+      "sha256": "19c17b529b8e4aa78fa124165a99fa4b705f1a01392c087914d58f5fc0281d9c",
+      "size": 1183162
     },
     "super_wife.watchface.json": {
-      "sha256": "9bd6acab377cdb8576ee0597e76dbd883fcdb0194217d8dce2ca820af0642fd3",
-      "size": 615321
+      "sha256": "e4014bcb583dc12414a85196aa8748b6a1f8b3f30aa49543c008a2fa5e6c1ee9",
+      "size": 616173
     },
     "super_wife-watch.png": {
-      "sha256": "bcfdb385b3fad9409291c6b5dd3234b61546438471234320544207b15a4b1235",
-      "size": 692617
+      "sha256": "243ef288b6295b3a01beee2c9020da7d9ae366a22e881a602411ad646c9045e8",
+      "size": 693984
     },
     "super_wife-watch-200.png": {
-      "sha256": "88490bfb8c5088b8c1cf250da985726e9d05d647a89112e7da97ea160c970e48",
-      "size": 49005
+      "sha256": "46b37883158f582918b4267f784d4f3e6f0654357a5568db154e5e1299d565ba",
+      "size": 48620
     },
     "super_wife-aod.png": {
       "sha256": "12551baf5ed78c5b0aac24a75b83a6a30058e73751a7c2bf1cbb349f175e5a78",
       "size": 293021
     },
     "super_wife-watch-qr.png": {
-      "sha256": "72bb2ba9d04891b8c9ca356fd230447e92dcbaeda7bc2043c0537fe501c21714",
-      "size": 1564111
+      "sha256": "e8b95dd6b8f8d503decaa8fa5fed3861a5bc657324d194b70c0743cbff93a49e",
+      "size": 1564413
     }
   }
 }
