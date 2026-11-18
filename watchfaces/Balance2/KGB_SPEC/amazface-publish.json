@@ -5,43 +5,43 @@
   "name": "KGB SPEC",
   "slug": "KGB_SPEC",
   "version": "1.0.0",
-  "publishedAt": "2026-11-18T23:12:56.443Z",
+  "publishedAt": "2026-11-18T23:19:22.418Z",
   "files": {
     "KGB_SPEC.zpk": {
-      "sha256": "2fdf13c8501d07273b22f79d485921b4e53fb41339f15e0795152cd61c848c1e",
-      "size": 229863
+      "sha256": "80360703d72dfdead526d6810d088db73a03230d618c8b114a40329106cb9415",
+      "size": 341175
     },
     "device.zip": {
-      "sha256": "028be8ffac367d53ce1c78c13dc06e7c96be967b9982130240fbbaa0b07721a9",
-      "size": 240126
+      "sha256": "64b99ec26b0fa1b62db6a0ae9998992f571df1ca7c1701bc19e92c9a7235a8a2",
+      "size": 341013
     },
     "project.zip": {
-      "sha256": "97f36da91943b490f17885a42013228319c851fb7d2786ad31d1570185c1ac6c",
-      "size": 709113
+      "sha256": "7d4b1df3222c4fa341c1698156b716f8d446c48a34a1e1c8afec454ca4300207",
+      "size": 1430817
     },
     "KGB_SPEC.watchface.json": {
-      "sha256": "3c2913cec78e280e80b1322adb232a6fc280adabda093b0f10216e83483c93d9",
-      "size": 869704
+      "sha256": "983b2f5a9e59f5675b79432c5ecacbfc4e9725d78b214e1b2257ce7df8ab3e6d",
+      "size": 1043280
     },
     "KGB_SPEC-watch.png": {
-      "sha256": "dc955b52e915aac0318e78a187e6cd4588c192ac52dd5c1edd814d07ebdb020d",
-      "size": 662778
+      "sha256": "94b9e100d66dce45034dc0e2c5ec62c4e0a03e6cc4f6148e818cab3abe4e1f12",
+      "size": 664041
     },
     "KGB_SPEC-watch-200.png": {
-      "sha256": "b859bc22da83a9e2a664ee920fadfde1da7e7e7833fbabc0e0f1ff8155994587",
-      "size": 47863
+      "sha256": "7064efc0eb82e1ba1e5f9c153fb3bd8e211e96b1a5835713ee8ec41233864c67",
+      "size": 48000
     },
     "KGB_SPEC-aod.png": {
-      "sha256": "42d226945f22f7a9c8fde61107c627ec227a731d213ef1c89dc2b13c291f2ebd",
-      "size": 300451
+      "sha256": "70cb3a734a5a82fb6e4177636364e1c180c1eaa071f195a0234bbf7857f7ba80",
+      "size": 295497
     },
     "KGB_SPEC-tap-zones.png": {
-      "sha256": "7a82418cc2778dc095f85cea257bd1c24d4c00bfac21a1caf3949fdd20d286fb",
-      "size": 1332509
+      "sha256": "cabf365d632805d50b7721175fd190db22271cdcd26dec826ae9c77a5cc13d74",
+      "size": 1332689
     },
     "KGB_SPEC-watch-qr.png": {
-      "sha256": "70b1a24e1440eac8d122fc121594cd5254230581d2b14b32f80422b60fc754a1",
-      "size": 1534658
+      "sha256": "f1843711ddf6509fac890b8b3182067660f7e33e30f0e34ee98499683b8e4c16",
+      "size": 1536312
     }
   }
 }
