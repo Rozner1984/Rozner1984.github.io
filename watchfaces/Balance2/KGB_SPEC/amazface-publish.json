@@ -5,31 +5,31 @@
   "name": "KGB SPEC",
   "slug": "KGB_SPEC",
   "version": "1.0.0",
-  "publishedAt": "2026-11-18T23:24:32.184Z",
+  "publishedAt": "2026-11-18T23:44:27.467Z",
   "files": {
     "KGB_SPEC.zpk": {
-      "sha256": "9f609c6eca8c08bb9ae9e97b8097c1e345738091b77514c70074b8009920f955",
-      "size": 341189
+      "sha256": "0ce9dad64036ac677d425c68f2149b9f0d3fb701855bf7fc460925f387789dd8",
+      "size": 341183
     },
     "device.zip": {
-      "sha256": "5d0f5847c1060ca0ce2dc4acd7b32b899580edff6777135790aa3ac26d35fb66",
+      "sha256": "9bc085b4a3bab6620874a168095a5ebdc6f2bfe0fc8b4a17ce17859bfa042dca",
       "size": 341019
     },
     "project.zip": {
-      "sha256": "39db7b11ed78b1903b896150dc3ce55041d413c9d6a83172cd6e3e9b2ba79551",
+      "sha256": "707a843a2797640260f37ae3b4218709ec8d8ca2ad23a27a05d1c359d44837bf",
       "size": 1430817
     },
     "KGB_SPEC.watchface.json": {
-      "sha256": "37ab77000e119f3a196e84cf3e284d8c7e2ce44e5d9fa08d0dfc6b6cc9ece15b",
-      "size": 1043280
+      "sha256": "74f195c7c7cadc32d9cbb1818813a356cbd714bddbc4fba0a1aac6441f337ec7",
+      "size": 1043498
     },
     "KGB_SPEC-watch.png": {
       "sha256": "94b9e100d66dce45034dc0e2c5ec62c4e0a03e6cc4f6148e818cab3abe4e1f12",
       "size": 664041
     },
     "KGB_SPEC-watch-200.png": {
-      "sha256": "7064efc0eb82e1ba1e5f9c153fb3bd8e211e96b1a5835713ee8ec41233864c67",
-      "size": 48000
+      "sha256": "42b2b6a41c721b72867f715c4164ac3080ae90b8a53d60a53bac728f5416096d",
+      "size": 47907
     },
     "KGB_SPEC-aod.png": {
       "sha256": "70cb3a734a5a82fb6e4177636364e1c180c1eaa071f195a0234bbf7857f7ba80",
@@ -40,8 +40,8 @@
       "size": 1332689
     },
     "KGB_SPEC-watch-qr.png": {
-      "sha256": "f1843711ddf6509fac890b8b3182067660f7e33e30f0e34ee98499683b8e4c16",
-      "size": 1536312
+      "sha256": "6c0060efd9b8584dd03fbc3bae52a627f68e929503d32c917aad26e3b04bb0bd",
+      "size": 1536310
     }
   }
 }
