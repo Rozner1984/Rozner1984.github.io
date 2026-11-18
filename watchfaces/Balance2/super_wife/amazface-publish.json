@@ -5,39 +5,39 @@
   "name": "super wife",
   "slug": "super_wife",
   "version": "1.0.0",
-  "publishedAt": "2026-11-18T07:14:11.649Z",
+  "publishedAt": "2026-11-18T07:36:46.478Z",
   "files": {
     "super_wife.zpk": {
-      "sha256": "8f57ebdb26f4ba1c4e86b4e5e4fefaaadd26f9c6d33526796d8b18fbf44c80e3",
-      "size": 271909
+      "sha256": "d205e899d87fe7c4dded8b965ec51d1fe6132db4e97d4bcf3d9bf9919ab673d8",
+      "size": 154538
     },
     "device.zip": {
-      "sha256": "6748f9feab7409f5dc1b2c24ab93413cf28201269276b1c697cb2b440b55ea38",
-      "size": 272010
+      "sha256": "6dc30b597a27f9d871ad0bd1d8af209bbc9142f93a80f737b2e221d62bffbaa5",
+      "size": 184738
     },
     "project.zip": {
-      "sha256": "45eee9656b42a1ea0920763f71589273fa99dc1f446077c84bb03ef84aeb6a23",
-      "size": 1145070
+      "sha256": "5bced81921697ec21cb27ee318c4ececa81fef38dff4ffcbc65c073d2e1c0bcd",
+      "size": 1179851
     },
     "super_wife.watchface.json": {
-      "sha256": "d84b9a88690f5295326f8751b1fe66e2dc2e01398b97d9dc895ddd8d08aec172",
-      "size": 565713
+      "sha256": "9bd6acab377cdb8576ee0597e76dbd883fcdb0194217d8dce2ca820af0642fd3",
+      "size": 615321
     },
     "super_wife-watch.png": {
-      "sha256": "86cebd2689bf5747bf3503695245862ffbc2ac16290738dea9061dad0b92ee83",
-      "size": 708365
+      "sha256": "bcfdb385b3fad9409291c6b5dd3234b61546438471234320544207b15a4b1235",
+      "size": 692617
     },
     "super_wife-watch-200.png": {
-      "sha256": "32f7b2c410c24f2ec3e0444f7729232011e258f5ab3549ead82260da31faded4",
-      "size": 50957
+      "sha256": "88490bfb8c5088b8c1cf250da985726e9d05d647a89112e7da97ea160c970e48",
+      "size": 49005
     },
     "super_wife-aod.png": {
       "sha256": "12551baf5ed78c5b0aac24a75b83a6a30058e73751a7c2bf1cbb349f175e5a78",
       "size": 293021
     },
     "super_wife-watch-qr.png": {
-      "sha256": "a3b2faa1e300e5102fa52ae05d91a57766cc1c9aef57300f3a68ea3c9b4381d1",
-      "size": 1580481
+      "sha256": "72bb2ba9d04891b8c9ca356fd230447e92dcbaeda7bc2043c0537fe501c21714",
+      "size": 1564111
     }
   }
 }
