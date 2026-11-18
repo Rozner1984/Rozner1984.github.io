@@ -1,0 +1,47 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "3789237",
+  "name": "KGB SPEC",
+  "slug": "KGB_SPEC",
+  "version": "1.0.0",
+  "publishedAt": "2026-11-18T23:12:56.443Z",
+  "files": {
+    "KGB_SPEC.zpk": {
+      "sha256": "2fdf13c8501d07273b22f79d485921b4e53fb41339f15e0795152cd61c848c1e",
+      "size": 229863
+    },
+    "device.zip": {
+      "sha256": "028be8ffac367d53ce1c78c13dc06e7c96be967b9982130240fbbaa0b07721a9",
+      "size": 240126
+    },
+    "project.zip": {
+      "sha256": "97f36da91943b490f17885a42013228319c851fb7d2786ad31d1570185c1ac6c",
+      "size": 709113
+    },
+    "KGB_SPEC.watchface.json": {
+      "sha256": "3c2913cec78e280e80b1322adb232a6fc280adabda093b0f10216e83483c93d9",
+      "size": 869704
+    },
+    "KGB_SPEC-watch.png": {
+      "sha256": "dc955b52e915aac0318e78a187e6cd4588c192ac52dd5c1edd814d07ebdb020d",
+      "size": 662778
+    },
+    "KGB_SPEC-watch-200.png": {
+      "sha256": "b859bc22da83a9e2a664ee920fadfde1da7e7e7833fbabc0e0f1ff8155994587",
+      "size": 47863
+    },
+    "KGB_SPEC-aod.png": {
+      "sha256": "42d226945f22f7a9c8fde61107c627ec227a731d213ef1c89dc2b13c291f2ebd",
+      "size": 300451
+    },
+    "KGB_SPEC-tap-zones.png": {
+      "sha256": "7a82418cc2778dc095f85cea257bd1c24d4c00bfac21a1caf3949fdd20d286fb",
+      "size": 1332509
+    },
+    "KGB_SPEC-watch-qr.png": {
+      "sha256": "70b1a24e1440eac8d122fc121594cd5254230581d2b14b32f80422b60fc754a1",
+      "size": 1534658
+    }
+  }
+}
