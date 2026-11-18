@@ -11,7 +11,7 @@
 | ![Дневной · основной](super_wife-watch.png) | ![AOD](super_wife-aod.png) |
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-18T18:53:02.982Z
+- **Опубликовано:** 2026-11-18T18:54:58.022Z
 - **Установочный пакет:** [super_wife.zpk](https://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/super_wife/super_wife.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/super_wife/super_wife.zpk`
 
