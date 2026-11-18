@@ -107,7 +107,7 @@
       "locked": false,
       "props": {
         "data_source": "HEART",
-        "value_min": 0,
+        "value_min": 60,
         "value_max": 100,
         "preview_percent": 65,
         "start_angle": -110,
@@ -828,7 +828,7 @@
           "locked": false,
           "props": {
             "data_source": "HEART",
-            "value_min": 0,
+            "value_min": 60,
             "value_max": 100,
             "preview_percent": 65,
             "start_angle": -110,
