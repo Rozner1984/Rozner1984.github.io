@@ -107,8 +107,8 @@
       "locked": false,
       "props": {
         "data_source": "HEART",
-        "value_min": 60,
-        "value_max": 100,
+        "value_min": 0,
+        "value_max": 200,
         "preview_percent": 65,
         "start_angle": -110,
         "end_angle": -46,
@@ -828,8 +828,8 @@
           "locked": false,
           "props": {
             "data_source": "HEART",
-            "value_min": 60,
-            "value_max": 100,
+            "value_min": 0,
+            "value_max": 200,
             "preview_percent": 65,
             "start_angle": -110,
             "end_angle": -46,
