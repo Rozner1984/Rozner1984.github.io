@@ -1,0 +1,47 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "2106272",
+  "name": "hyk pusher",
+  "slug": "hyk_pusher",
+  "version": "1.0.0",
+  "publishedAt": "2026-11-19T23:39:05.114Z",
+  "files": {
+    "hyk_pusher.zpk": {
+      "sha256": "48e83dfd52ef2fa7c36ed7dd8e0cf871d77304495a3c1a8fe760cbdded8c21df",
+      "size": 280555
+    },
+    "device.zip": {
+      "sha256": "4dd7d0b27f19e928b6a2ace3cd49140e4b0f9bd410c69695ec1d464d50e3434c",
+      "size": 284525
+    },
+    "project.zip": {
+      "sha256": "1ddd1a2584b1b43099597743a76b8fd11079acbc47eb60e80306888c14bb6f42",
+      "size": 1142249
+    },
+    "hyk_pusher.watchface.json": {
+      "sha256": "5bffd60a2cc1856030aa0856c0e26c8d14f91639129935994f28544b9c1350e3",
+      "size": 580195
+    },
+    "hyk_pusher-watch.png": {
+      "sha256": "8324f53840f291107512a6ed4f169efb9154149a1b745eb4022ac8034ed6761b",
+      "size": 641362
+    },
+    "hyk_pusher-watch-200.png": {
+      "sha256": "bc56b9ac7245283bdf8ef5375caf4e94d38fa6cdb81fcdd968be51052839c02e",
+      "size": 48640
+    },
+    "hyk_pusher-aod.png": {
+      "sha256": "12551baf5ed78c5b0aac24a75b83a6a30058e73751a7c2bf1cbb349f175e5a78",
+      "size": 293021
+    },
+    "hyk_pusher-tap-zones.png": {
+      "sha256": "a151dd98edd81d87e3d74a4fabd301285c5793c87694aecb98eb4196feeea1ff",
+      "size": 1278664
+    },
+    "hyk_pusher-watch-qr.png": {
+      "sha256": "deb4ea4397391097bff47ec2bb57740cc76a67e0c6a90dd02eeed14c3dec35a4",
+      "size": 1513245
+    }
+  }
+}
