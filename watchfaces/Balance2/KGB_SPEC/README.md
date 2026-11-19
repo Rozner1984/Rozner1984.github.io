@@ -17,7 +17,7 @@
 ![Зоны нажатия](KGB_SPEC-tap-zones.png)
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-19T06:51:57.239Z
+- **Опубликовано:** 2026-11-19T06:55:21.562Z
 - **Установочный пакет:** [KGB_SPEC.zpk](https://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/KGB_SPEC/KGB_SPEC.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/KGB_SPEC/KGB_SPEC.zpk`
 
