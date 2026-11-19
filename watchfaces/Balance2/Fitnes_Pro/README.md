@@ -11,7 +11,7 @@
 | ![Дневной · основной](Fitnes_Pro-watch.png) | ![AOD](Fitnes_Pro-aod.png) |
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-19T19:30:20.006Z
+- **Опубликовано:** 2026-11-19T19:35:31.181Z
 - **Установочный пакет:** [Fitnes_Pro.zpk](https://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/Fitnes_Pro/Fitnes_Pro.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/Fitnes_Pro/Fitnes_Pro.zpk`
 
