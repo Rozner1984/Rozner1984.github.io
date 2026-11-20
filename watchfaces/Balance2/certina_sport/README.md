@@ -11,7 +11,7 @@
 | ![Дневной · основной](certina_sport-watch.png) | ![AOD](certina_sport-aod.png) |
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-20T19:17:16.224Z
+- **Опубликовано:** 2026-11-20T19:20:21.095Z
 - **Установочный пакет:** [certina_sport.zpk](https://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/certina_sport/certina_sport.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/certina_sport/certina_sport.zpk`
 
