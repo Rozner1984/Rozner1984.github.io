@@ -11,7 +11,7 @@
 | ![Дневной · основной](life-watch.png) | ![AOD](life-aod.png) |
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-20T16:27:08.733Z
+- **Опубликовано:** 2026-11-20T16:28:11.806Z
 - **Установочный пакет:** [life.zpk](https://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/life/life.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/life/life.zpk`
 
