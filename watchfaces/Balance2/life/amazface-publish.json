@@ -1,0 +1,43 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "2993511",
+  "name": "life",
+  "slug": "life",
+  "version": "1.0.0",
+  "publishedAt": "2026-11-20T16:22:07.649Z",
+  "files": {
+    "life.zpk": {
+      "sha256": "4b811df7b1d367ffd5f688a4de4db7d8101460d4f5607809934daf0ffc2a0d02",
+      "size": 420402
+    },
+    "device.zip": {
+      "sha256": "2ae85be68d0fb46b78cf1680aca31e94d03c16068be7ea25bbd635ef44d4d7ac",
+      "size": 424512
+    },
+    "project.zip": {
+      "sha256": "949cd1e8e1b12a039b346a642ace0a95fcc5ab83cf022b5563685caa2dcaa2cc",
+      "size": 1513908
+    },
+    "life.watchface.json": {
+      "sha256": "805e0e64328c0c9691d9378ad2fdb0659c683e110aff0c18fe300a58641532be",
+      "size": 705826
+    },
+    "life-watch.png": {
+      "sha256": "fcf707afb3c32ef0dbafd307dd3ce229905b90cb2c7dc2b3f2f374366d7bca42",
+      "size": 649383
+    },
+    "life-watch-200.png": {
+      "sha256": "508e017ff03a6fddfa95d6b6fb653ccda7397079107c2c62beec3b69b84149a6",
+      "size": 45578
+    },
+    "life-aod.png": {
+      "sha256": "12551baf5ed78c5b0aac24a75b83a6a30058e73751a7c2bf1cbb349f175e5a78",
+      "size": 293021
+    },
+    "life-watch-qr.png": {
+      "sha256": "122e0d01d4491cc1e3a01c22994295c74717d26520b4fff3dc27dff1e2567ebf",
+      "size": 1553067
+    }
+  }
+}
