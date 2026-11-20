@@ -5,39 +5,39 @@
   "name": "life",
   "slug": "life",
   "version": "1.0.0",
-  "publishedAt": "2026-11-20T16:27:08.733Z",
+  "publishedAt": "2026-11-20T16:28:11.806Z",
   "files": {
     "life.zpk": {
-      "sha256": "456b041e6c363ff68ffd3597a14e0a8e4387890c72ae11a22ad6ddec7e1cece8",
-      "size": 346391
+      "sha256": "df5ab78e6de8a6570be9fab67487ba36f5ecd7e922a064cdcfe937f08966ad50",
+      "size": 345764
     },
     "device.zip": {
-      "sha256": "8eb7f3ea67949c183d81791486e74055c74d06c1200279b4e3098b808d1fa9cc",
-      "size": 351093
+      "sha256": "ae3d94b8a290dbe38e001828bfb6d229247950aa41d95a1e2e8d10bda94c0b59",
+      "size": 350465
     },
     "project.zip": {
-      "sha256": "790bca5c7fd9196661cd48c2f82721b7e9f03ebf280c286e95455ea13376429d",
-      "size": 1247426
+      "sha256": "3c9cc4ea7659ecb71844cf357d9493bac353b7cb1e98cdc54fe7770f109bfd2e",
+      "size": 1249502
     },
     "life.watchface.json": {
-      "sha256": "96d093ed14b66eb247dd6d016a098314284caee8feb9df239abfdd0294ebce7f",
-      "size": 699762
+      "sha256": "919c02d0ff9c5b12ec2a56a7264329e23e5ca0bdab8bf330a594c5936e455782",
+      "size": 700234
     },
     "life-watch.png": {
-      "sha256": "5fc0b4cb78a0cfb73c347a1e82e6ed349a0f279359c0de2aae11ce67b5a55bfa",
-      "size": 633996
+      "sha256": "247b785f3490c1487b12ba7aa4828fabbe63c7008a82f1e21ece4aa4e9346293",
+      "size": 634487
     },
     "life-watch-200.png": {
-      "sha256": "fee37d4daf344907eeff3c255fbf7f74daa00f04e4554342f28f311fcc240a25",
-      "size": 44696
+      "sha256": "d04bf26a44ef5a6137e7b77ade6bd81b8fef3f28e9ba4934e906528167e92e1a",
+      "size": 44875
     },
     "life-aod.png": {
       "sha256": "12551baf5ed78c5b0aac24a75b83a6a30058e73751a7c2bf1cbb349f175e5a78",
       "size": 293021
     },
     "life-watch-qr.png": {
-      "sha256": "2a59489c5bb395701d7374d9dc1b2215114aebf0829090435f74b588ac5a341c",
-      "size": 1536916
+      "sha256": "cf6997353c4d09af627d6d00c176a03bc06143922d4bf0d4ad9e8b3cfc6988ec",
+      "size": 1538241
     }
   }
 }
