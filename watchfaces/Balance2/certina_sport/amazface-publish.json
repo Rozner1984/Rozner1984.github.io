@@ -1,0 +1,43 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "8806931",
+  "name": "certina sport",
+  "slug": "certina_sport",
+  "version": "1.0.0",
+  "publishedAt": "2026-11-20T19:17:16.224Z",
+  "files": {
+    "certina_sport.zpk": {
+      "sha256": "f0964e869eb95cfd4e70d85ad3e9707fdab87d0a4eccdd7b26768ac41e2856d3",
+      "size": 201038
+    },
+    "device.zip": {
+      "sha256": "bd316211c3441eceb2fe16869ef1793deb5e8d76edb640ae111a25c54d295c2a",
+      "size": 201323
+    },
+    "project.zip": {
+      "sha256": "325123f2fa61360ec40d486b478142a74cccbf594bbb4bcf55b8a5941a025651",
+      "size": 1014841
+    },
+    "certina_sport.watchface.json": {
+      "sha256": "1a9f69fa28bd9c297a6597c1da5ab45e4b33488d7659f40a80956d4bbc1f7b57",
+      "size": 540218
+    },
+    "certina_sport-watch.png": {
+      "sha256": "71e4f9f7b12d2dc093e13be4f9825e9bbf2fab82c6e7dd082d2f8fdea2306d4b",
+      "size": 649570
+    },
+    "certina_sport-watch-200.png": {
+      "sha256": "225f8fc4f2714a7c06228df7762d96596cfd243cbe32ec859949772e969b7d8d",
+      "size": 47442
+    },
+    "certina_sport-aod.png": {
+      "sha256": "023c6fc6e7db708c2e4ce4237ec1e2acbda9a7d7c040c0eaa18bc2030416cb71",
+      "size": 314677
+    },
+    "certina_sport-watch-qr.png": {
+      "sha256": "05a085b1e173d61620b7a61d4731620110d1d35870ad8760a7505c5fd6b549f6",
+      "size": 1536499
+    }
+  }
+}
