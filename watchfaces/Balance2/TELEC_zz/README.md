@@ -11,7 +11,7 @@
 | ![Дневной · основной](TELEC_zz-watch.png) | ![AOD](TELEC_zz-aod.png) |
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-21T21:09:36.642Z
+- **Опубликовано:** 2026-11-21T21:13:35.063Z
 - **Установочный пакет:** [TELEC_zz.zpk](https://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/TELEC_zz/TELEC_zz.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/TELEC_zz/TELEC_zz.zpk`
 
