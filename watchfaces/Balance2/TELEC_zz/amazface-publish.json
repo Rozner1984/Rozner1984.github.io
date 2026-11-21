@@ -1,0 +1,43 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "6495585",
+  "name": "TELEC zz",
+  "slug": "TELEC_zz",
+  "version": "1.0.0",
+  "publishedAt": "2026-11-21T21:09:36.642Z",
+  "files": {
+    "TELEC_zz.zpk": {
+      "sha256": "9a7482f178c14dca9bd936d0541915d881a9967333c646b7c4d3b35a51ebe463",
+      "size": 216115
+    },
+    "device.zip": {
+      "sha256": "9bc405d9fbce82e1c8ad0e716d40d1d0944780ce55e1be6840ce551c66799ccb",
+      "size": 271530
+    },
+    "project.zip": {
+      "sha256": "dae494e30080350a2406e39e7aef4ee0214b6817a0c78f023d5c74ee3004a771",
+      "size": 968753
+    },
+    "TELEC_zz.watchface.json": {
+      "sha256": "aac8358307f8d19329eab9e322c6c4efae4799e4d67b2bedce8c13279b1f4417",
+      "size": 371574
+    },
+    "TELEC_zz-watch.png": {
+      "sha256": "d92ac348cc916c7d128ff2e60d14c4fa599904c9f78876abc54ccadbbc4bf337",
+      "size": 524368
+    },
+    "TELEC_zz-watch-200.png": {
+      "sha256": "e6b9bb5399629235abfafb0e6ae2b89ab1c660bacc0bc671962b56d29590f54c",
+      "size": 43542
+    },
+    "TELEC_zz-aod.png": {
+      "sha256": "12551baf5ed78c5b0aac24a75b83a6a30058e73751a7c2bf1cbb349f175e5a78",
+      "size": 293021
+    },
+    "TELEC_zz-watch-qr.png": {
+      "sha256": "b3b3476644a4eb781f0a974127e56a08c3e9a2bf249c06bc8d137ac85c5f118d",
+      "size": 1406477
+    }
+  }
+}
