@@ -5,39 +5,39 @@
   "name": "certina sport",
   "slug": "certina_sport",
   "version": "1.0.0",
-  "publishedAt": "2026-11-20T19:20:21.095Z",
+  "publishedAt": "2026-11-21T22:37:23.338Z",
   "files": {
     "certina_sport.zpk": {
-      "sha256": "c0b74edf8da5d47993e6794db0e36b3097e2d8fa21c0c04273e923f9d46df29a",
-      "size": 200720
+      "sha256": "ef0dd26e6ad5da94a5a62585afd985e6d1a1db6b7bab1d09f46edcc2074e5001",
+      "size": 186211
     },
     "device.zip": {
-      "sha256": "ed1436744103a44ae04cb9be027049172d2ae8f7e6c92b0b5864462391090aa8",
-      "size": 200994
+      "sha256": "3be9d57af1f73506993dad2101c730d0d1ad85a0ddad46ba4cf747ef9f6b6581",
+      "size": 186521
     },
     "project.zip": {
-      "sha256": "ac265735f457e3754d2c790a938258a72aa7ee225512e02c08c895665589cb65",
-      "size": 1013683
+      "sha256": "2ff14f9eed0227e05867d36dc6a7335a9f55d13e24caf2844fb7d4fc26c46c4e",
+      "size": 953137
     },
     "certina_sport.watchface.json": {
-      "sha256": "ac473e423f568f83ac4ef9e8019ad521b334378cc564d1624f0b518eee1d1864",
-      "size": 539746
+      "sha256": "e3a47095121d60649822ab1acc48ea7a2b08e5f37735a43b2337fa8647b4b608",
+      "size": 511645
     },
     "certina_sport-watch.png": {
-      "sha256": "84c31dd7bd6298e2429b0095458caad52313ac0f70fc6aceb51bedb1fb0f472a",
-      "size": 648373
+      "sha256": "ea3462452bb0473c38524505bc32c1cd13194fe5fd252b7459350b42cf2d4d1c",
+      "size": 619193
     },
     "certina_sport-watch-200.png": {
-      "sha256": "d1a4ce08d8525ed1b0bc0623f9955714a3b46edd5d27b3dec9a361d0d5881762",
-      "size": 47430
+      "sha256": "995a1752e7a7e921a4bdde20e5b3c92257a82f161642661fed69718b06ec5f2d",
+      "size": 47011
     },
     "certina_sport-aod.png": {
       "sha256": "023c6fc6e7db708c2e4ce4237ec1e2acbda9a7d7c040c0eaa18bc2030416cb71",
       "size": 314677
     },
     "certina_sport-watch-qr.png": {
-      "sha256": "cfba16a477dd1b83576e5ad526b1b2954fb4e30c4552603b5baed093994a3a11",
-      "size": 1535123
+      "sha256": "b2b3786b2fafbe5bceb7842b6edf205f91dda036342ab5e2b588e6169783f053",
+      "size": 1502883
     }
   }
 }
