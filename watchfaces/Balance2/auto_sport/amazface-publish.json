@@ -1,0 +1,51 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "2767563",
+  "name": "auto sport",
+  "slug": "auto_sport",
+  "version": "1.0.0",
+  "publishedAt": "2026-11-22T22:58:54.994Z",
+  "files": {
+    "auto_sport.zpk": {
+      "sha256": "2cc54760148071411f14a35598c1d6d5bf55d507365d206e46a7fb62aa609431",
+      "size": 197522
+    },
+    "device.zip": {
+      "sha256": "c93fa3da463f5612200660d793556a3708a2c4fd3733942d8b32846d2f1397e7",
+      "size": 207018
+    },
+    "project.zip": {
+      "sha256": "f9539762db24c26c3d3d29c783e286fc5be095fd21a8d638942c607b96cbe505",
+      "size": 661157
+    },
+    "auto_sport.watchface.json": {
+      "sha256": "dbdc146996834fd37798012d34439855e257adf3f67ba351a7e17d4507ed03d3",
+      "size": 698530
+    },
+    "auto_sport-watch.png": {
+      "sha256": "00a04613bda368eaf4a73941e214f0f4203619d6d9660c90ffe30dc97824b003",
+      "size": 631677
+    },
+    "auto_sport-watch-200.png": {
+      "sha256": "7e1c53fc0c0a960ab0a8df960ec73b341d10f30fd889e2f6568159622cfc186a",
+      "size": 46731
+    },
+    "auto_sport-night.png": {
+      "sha256": "95f9170c72e9d72ab0a4e461570f80797367e3bfe19328e6d0d000f4805fe691",
+      "size": 564088
+    },
+    "auto_sport-aod.png": {
+      "sha256": "b6b9881e11c8f6a609a27f84dc393ae2b89ef7ef095e2029a4df0cbc6af11f60",
+      "size": 347911
+    },
+    "auto_sport-tap-zones.png": {
+      "sha256": "f7e2fc6f4c71639ed3df38f382ce730f334ac360d81a81a098342e563b57a56b",
+      "size": 1291423
+    },
+    "auto_sport-watch-qr.png": {
+      "sha256": "c634e8f6c4a2da9cb7c59537004fa4443dadf18d8845ef652918ac8986167428",
+      "size": 1506765
+    }
+  }
+}
