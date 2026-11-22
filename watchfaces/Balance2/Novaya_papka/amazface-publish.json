@@ -1,0 +1,43 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "5479976",
+  "name": "Новая папка",
+  "slug": "Novaya_papka",
+  "version": "1.0.0",
+  "publishedAt": "2026-11-22T15:21:23.933Z",
+  "files": {
+    "Novaya_papka.zpk": {
+      "sha256": "a56a1602c1e79891938a6f5b0d0e541c84cc45e303e2c598a8c29cfcc4461b63",
+      "size": 458609
+    },
+    "device.zip": {
+      "sha256": "0e250be2f257bb03e4473398f6c6ec23ca2248f184de8e4589aa98528419722c",
+      "size": 489613
+    },
+    "project.zip": {
+      "sha256": "560551383a5bea48c1ca4a9c3c8ac20dec88514bf0f66355306977470430fae5",
+      "size": 1692968
+    },
+    "Novaya_papka.watchface.json": {
+      "sha256": "93850adbb5b125c1324f455883e6712ab7e925b3399c4be4a03934c40dfc1827",
+      "size": 1161875
+    },
+    "Novaya_papka-watch.png": {
+      "sha256": "722f519765cd370fd446ab1e38828e8845cd797cf2655846d29eff5695bd17c1",
+      "size": 704939
+    },
+    "Novaya_papka-watch-200.png": {
+      "sha256": "cf19ed0418fc92c584a730362f6b5d18e3c94d8a06e6e8b410cb9918fbc92ad0",
+      "size": 49845
+    },
+    "Novaya_papka-aod.png": {
+      "sha256": "12551baf5ed78c5b0aac24a75b83a6a30058e73751a7c2bf1cbb349f175e5a78",
+      "size": 293021
+    },
+    "Novaya_papka-watch-qr.png": {
+      "sha256": "5be3014d0345a8b11bbdc7c1ee7d1a0b17b9a82bb1ead2f09cc2f9c695c7f999",
+      "size": 1585543
+    }
+  }
+}
