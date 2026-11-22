@@ -11,7 +11,7 @@
 | ![Дневной · основной](Novaya_papka-watch.png) | ![AOD](Novaya_papka-aod.png) |
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-22T11:27:46.292Z
+- **Опубликовано:** 2026-11-22T11:38:38.099Z
 - **Установочный пакет:** [Novaya_papka.zpk](https://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/Novaya_papka/Novaya_papka.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/Novaya_papka/Novaya_papka.zpk`
 
