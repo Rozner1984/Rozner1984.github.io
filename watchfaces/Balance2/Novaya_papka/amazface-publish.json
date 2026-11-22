@@ -5,39 +5,39 @@
   "name": "Новая папка",
   "slug": "Novaya_papka",
   "version": "1.0.0",
-  "publishedAt": "2026-11-22T11:27:46.292Z",
+  "publishedAt": "2026-11-22T11:38:38.099Z",
   "files": {
     "Novaya_papka.zpk": {
-      "sha256": "798f81554ea8413729ca11f711690d48ff84a088c3b9e0a5148187f43b06be86",
-      "size": 454912
+      "sha256": "1dfae321adb89379d41cf96c516184c9e163b24d932f4abca94b92f5fdf0c0a1",
+      "size": 453282
     },
     "device.zip": {
-      "sha256": "fd6f68e302245bc10cd20b9f5809a19c46500348ed471c52aa76dab13f2ac0ec",
-      "size": 463315
+      "sha256": "09fc8c8d81d019c3584f37d93d0d4ab0218cc3cbcf3a4827de095cea2c0308b5",
+      "size": 461691
     },
     "project.zip": {
-      "sha256": "aa1db6cd493a48aedb997712f398f80f52007d14c90ca85efc5400d1a1c39744",
-      "size": 1721911
+      "sha256": "f6ecd60993454f676ab5d5bbc9422714bdad44eb014f1b0ff7344bcfd4ca31ae",
+      "size": 1708100
     },
     "Novaya_papka.watchface.json": {
-      "sha256": "f3a4059aec63ae3805eb26ed29c4afb411e5f230363b5d1e02823e19292e464e",
-      "size": 621138
+      "sha256": "0ea18323f468a89e6f1e7a3438254033340adf17738349e1b02d49ac5f6d97f9",
+      "size": 619790
     },
     "Novaya_papka-watch.png": {
-      "sha256": "1e4d0708b244177ee04f91e7c0965ef2e1b192c33f48a8e99dadb3f65698cc84",
-      "size": 781721
+      "sha256": "903dab9e8ac241f33ca63192854969ea7fbba5ef1de64df4ea841f0851cf273d",
+      "size": 769787
     },
     "Novaya_papka-watch-200.png": {
-      "sha256": "58494375cf3211ca29ea9b38fd737fa2cd0a7d884342f269bcdaa975456dce35",
-      "size": 51959
+      "sha256": "bf2a10f34e21603b61815ea302908b9f2e2469999e02f5574c8f75de4a273a43",
+      "size": 52175
     },
     "Novaya_papka-aod.png": {
       "sha256": "12551baf5ed78c5b0aac24a75b83a6a30058e73751a7c2bf1cbb349f175e5a78",
       "size": 293021
     },
     "Novaya_papka-watch-qr.png": {
-      "sha256": "1e32e627f189d76d56d2f15e14f484ae1945e659923ed363fc05996602c6aac5",
-      "size": 1657476
+      "sha256": "a3d0d0bdf14a27ceb0551e23831f73ecb72883f00e24b210394b69c834164557",
+      "size": 1647693
     }
   }
 }
