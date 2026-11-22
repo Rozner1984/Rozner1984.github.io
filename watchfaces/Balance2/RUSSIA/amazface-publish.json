@@ -1,0 +1,43 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "5479976",
+  "name": "RUSSIA",
+  "slug": "RUSSIA",
+  "version": "1.0.0",
+  "publishedAt": "2026-11-22T11:42:19.527Z",
+  "files": {
+    "RUSSIA.zpk": {
+      "sha256": "6a4c45146f289b8f937a383bb9fb4c90604b97cb23081655c6cff484284d01d3",
+      "size": 454867
+    },
+    "device.zip": {
+      "sha256": "a2b5cc788b91d1311c93e66d9090146f4900f4786d54a62417a8abb411ee0baa",
+      "size": 463296
+    },
+    "project.zip": {
+      "sha256": "28c9e9627e47fddd00153a82469d10ad3e6ca76ea9ee1f6a71381804c616a59a",
+      "size": 1716983
+    },
+    "RUSSIA.watchface.json": {
+      "sha256": "9cbbbfb38e84054b3d49e83bdc930411c736f9a6942fb1baf11012193cd66af9",
+      "size": 621819
+    },
+    "RUSSIA-watch.png": {
+      "sha256": "c22412234a22c23b36743a00f5d2c5384c5b95a90b38042b8c46b807d9ef9d76",
+      "size": 777576
+    },
+    "RUSSIA-watch-200.png": {
+      "sha256": "cfc2b37c1748f64b70f2a0ede744ffaf88adae524596aaf7ec834a47fa30f7cc",
+      "size": 52111
+    },
+    "RUSSIA-aod.png": {
+      "sha256": "12551baf5ed78c5b0aac24a75b83a6a30058e73751a7c2bf1cbb349f175e5a78",
+      "size": 293021
+    },
+    "RUSSIA-watch-qr.png": {
+      "sha256": "f185778205c5d6578192a3f6e69996a69d1e28dc38c34183c6167f25843e480a",
+      "size": 1653957
+    }
+  }
+}
