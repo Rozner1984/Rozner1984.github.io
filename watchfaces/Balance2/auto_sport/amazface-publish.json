@@ -5,47 +5,47 @@
   "name": "auto sport",
   "slug": "auto_sport",
   "version": "1.0.0",
-  "publishedAt": "2026-11-23T06:56:20.263Z",
+  "publishedAt": "2026-11-23T20:40:55.329Z",
   "files": {
     "auto_sport.zpk": {
-      "sha256": "1cf646438e5763ce705a5a00452dbff8769ed843125da27233ef477128105a49",
-      "size": 284204
+      "sha256": "fe60f57d01064a640d88c2817ca29518b7ca7191d4ea0c8b06da74acfe380514",
+      "size": 248867
     },
     "device.zip": {
-      "sha256": "390f34863c8ca5c9e18cab6b5eef5ef40176df55df77f8f324c4524d96d1c061",
-      "size": 284992
+      "sha256": "597e508a785876e882580325b2306e8a7f28319d1c021626e7118a1bb86aa1ce",
+      "size": 249639
     },
     "project.zip": {
-      "sha256": "9815ca419b8a5b554a96e9e9dd9a77aa427a3b63d8d7d9be66c739d1abe8bc81",
-      "size": 1217553
+      "sha256": "90209d7949097de4c8363deb0567bc90e0a45df2b24c490976d87e885596cbb5",
+      "size": 1190069
     },
     "auto_sport.watchface.json": {
-      "sha256": "e06916b5ee9bee59710716cc4a441b4d35134478c116a63fcfff874b1e373bf2",
-      "size": 824010
+      "sha256": "394a50586e3907309683281cbda81b659d2a7d504bf3b31051fd3d4b21020b82",
+      "size": 843936
     },
     "auto_sport-watch.png": {
-      "sha256": "ab7676ff289563526ae311cac3463e0465426d5e666a0bb0e5ee167381a461c5",
-      "size": 634014
+      "sha256": "03824594d5a4985bb9412a3cc40c46ede698dca2d137a6fd1f88e99c6f19b6c8",
+      "size": 631659
     },
     "auto_sport-watch-200.png": {
-      "sha256": "e72c5b753ae0847cd56aa1847f28925cd7bffd1ea339ff716ce62902f5a4583d",
-      "size": 47079
+      "sha256": "654a98e8f44ce9ed2895b0894c1f94b84653accd8eec97a9f569984b5f8a87c8",
+      "size": 46953
     },
     "auto_sport-night.png": {
-      "sha256": "77c1f53e165a7f8151503db16fcd0199475e87c7437751a8d8187a13371a398a",
-      "size": 567563
+      "sha256": "b1ebf6282505e740fcee1bedbe7adfd35f56f9099d7eb8986f895c741d395d65",
+      "size": 566256
     },
     "auto_sport-aod.png": {
       "sha256": "cbc1383adefd4bc0eff51eb3a7ca149d1f0eebbf760608b390a4bc98c1b2c458",
       "size": 349556
     },
     "auto_sport-tap-zones.png": {
-      "sha256": "4d9a3dbb15b435dca79fda19b05406e83219c81df8dcae16784fdece584823db",
-      "size": 1293544
+      "sha256": "02d757bdfc17cb9070cc7ce059cf5f20842b4e5445f8d67e0bf0bcee2f3b3c12",
+      "size": 1291301
     },
     "auto_sport-watch-qr.png": {
-      "sha256": "c23565e25ba97f5caa189bf55b8aa240d14459e8b8a576259667dabbf95169f7",
-      "size": 1510202
+      "sha256": "50c4a96ac4e0be7b91a54913648498be522f101432d0a238b4095f285869cff7",
+      "size": 1508319
     }
   }
 }
