@@ -17,7 +17,7 @@
 ![Зоны нажатия](auto_sport-tap-zones.png)
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-23T06:45:38.732Z
+- **Опубликовано:** 2026-11-23T06:56:20.263Z
 - **Установочный пакет:** [auto_sport.zpk](https://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/auto_sport/auto_sport.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/auto_sport/auto_sport.zpk`
 
