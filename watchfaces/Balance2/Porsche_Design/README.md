@@ -17,7 +17,7 @@
 ![Зоны нажатия](Porsche_Design-tap-zones.png)
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-23T21:16:05.737Z
+- **Опубликовано:** 2026-11-24T06:02:36.099Z
 - **Установочный пакет:** [Porsche_Design.zpk](https://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/Porsche_Design/Porsche_Design.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/Porsche_Design/Porsche_Design.zpk`
 
