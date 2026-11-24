@@ -5,39 +5,39 @@
   "name": "CASINO",
   "slug": "CASINO",
   "version": "1.0.0",
-  "publishedAt": "2026-11-24T19:52:02.583Z",
+  "publishedAt": "2026-11-24T20:01:34.869Z",
   "files": {
     "CASINO.zpk": {
-      "sha256": "b524967cfdb50ace72b80c55cd1389e508eab6de2b3a6ea9de4de0700c384a40",
-      "size": 363674
+      "sha256": "caec1d88b79b17b52ba311b8f61abb045ae02201a6d6b5e67b5a5e3afa47981d",
+      "size": 304397
     },
     "device.zip": {
-      "sha256": "d86a22a3f86121c0dec0980b199f354455de6008f4ee0c9c206e5867abac9fb5",
-      "size": 363999
+      "sha256": "e62dc154a5e77778799174439e82636f0f5be927131018453fa51032a86f8d87",
+      "size": 304920
     },
     "project.zip": {
-      "sha256": "9aa8ee76c84d48c16744911468e8c6ed8663f6a27e4c71e11ae93cfccf7cc0b9",
-      "size": 1767230
+      "sha256": "c7dba0cd9f46785f8e445dbfa41efbdab0cd791ae1e63d024ad0d8c0a7d6e3fc",
+      "size": 1739430
     },
     "CASINO.watchface.json": {
-      "sha256": "6cce9be82bc3df7d3fb76453ac3ff9ff4d3992894d12683a07445f067276b3d6",
-      "size": 1329810
+      "sha256": "eda6a51b07d3f83a7bf8843cb65366926bea78d59c486a5250d04adc7474cf4d",
+      "size": 1328826
     },
     "CASINO-watch.png": {
-      "sha256": "b4e76cf9705c60e12a840ce3b2e12228db14a4c5dfde95f91595bf5cd0b04b9f",
-      "size": 962904
+      "sha256": "dd4f3a1004d0da25f5ab413eb0b874564e66dcc7046e3a649ae3f330449b23ac",
+      "size": 917863
     },
     "CASINO-watch-200.png": {
-      "sha256": "1f069be1a0f956b92e0402aea5ab6e53b89304768c64233fe5e165b83c4ed01b",
-      "size": 56659
+      "sha256": "0857f1fb78d2c1cd62ce306de3084f75ac0f0e35f6b42c7c05bd38e528ce2e66",
+      "size": 55469
     },
     "CASINO-aod.png": {
       "sha256": "590b76dca1318e3854d86ceb5b95118cfd014cde29e7f6ea5112a7f3e1476938",
       "size": 371850
     },
     "CASINO-watch-qr.png": {
-      "sha256": "e4e41d175ffe2e4d27e16a434f09a52bb60bf372ff9276f54e37dea13660ce00",
-      "size": 1845120
+      "sha256": "3f083b03952398fce590ceef6b2f9b08a45d97e8b2bfa7ef3b2e1e69285424f8",
+      "size": 1793138
     }
   }
 }
