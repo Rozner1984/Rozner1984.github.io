@@ -5,43 +5,43 @@
   "name": "Porsche Design",
   "slug": "Porsche_Design",
   "version": "1.0.0",
-  "publishedAt": "2026-11-24T06:09:23.918Z",
+  "publishedAt": "2026-11-24T06:22:04.961Z",
   "files": {
     "Porsche_Design.zpk": {
-      "sha256": "ccb7436f01a87505eb017737155d79974d0f5031b1e41bfa422e02f0b4a4bbfb",
-      "size": 297475
+      "sha256": "9695df58f2065b24cdbaf980463bc075b643b49432254d6981c4f6e355a6c48f",
+      "size": 300732
     },
     "device.zip": {
-      "sha256": "e6f9e8e665e88658d870641fcf06bfe13fbac26226cc1a254e1ce7d1ce1690fb",
-      "size": 299502
+      "sha256": "209d98cf3f6b19dc07f169791b145cfe4ffd1cbb74aa396d5ef942124e5bd30e",
+      "size": 302705
     },
     "project.zip": {
-      "sha256": "4fd610a50f354a82d7dd368a4343f7bc53c3cdb0888459684aa97410e35a503e",
-      "size": 1442061
+      "sha256": "698c85e5dfc1445fe646abc652ef0c556fbb212191cbca5f7edf9036c11a5aa4",
+      "size": 1445031
     },
     "Porsche_Design.watchface.json": {
-      "sha256": "f973478b5b2fa9e1b25acae9cfd066391ce6bf1412c36ef5e165ce9568cd968c",
-      "size": 833747
+      "sha256": "d17db37e26e1ddc030100408e42bcb98f5304b0f310d126eb3e07bae32b87786",
+      "size": 834411
     },
     "Porsche_Design-watch.png": {
-      "sha256": "ad0eb3d189bfc12b92a30c89de9d0857a2ee2649b4233dc58023788714cb200a",
-      "size": 789094
+      "sha256": "8ddd4c1893176a9cef370aab1193c8f571998d14160f0aaf198602ca28e0a9ae",
+      "size": 791258
     },
     "Porsche_Design-watch-200.png": {
-      "sha256": "61f7bff987c4fe3e461543196a17f2b2603d08c66b44fd1c92606873318821c9",
-      "size": 52357
+      "sha256": "95fb3631c965597cc0d15a546e71769754c87cf9cb7328b79584e17e40c45835",
+      "size": 52538
     },
     "Porsche_Design-aod.png": {
       "sha256": "18d32cc86f2d849d247cd7889a9ffb02897ccb1345753c0022e84c3f428ffa37",
       "size": 302993
     },
     "Porsche_Design-tap-zones.png": {
-      "sha256": "beda19342a79fac567d6b2cc13ed0d3bde686c1075da544c8c4da73ab4984bae",
-      "size": 1453758
+      "sha256": "ec2395c808be6b6e60a5c10cab86f5ee88e4d1752bf798610e8168bd45c21fef",
+      "size": 1455606
     },
     "Porsche_Design-watch-qr.png": {
-      "sha256": "e71c0a6690b8b762d92fb00bcab455cf7e93c07f3654ebab4397f01861d90ae2",
-      "size": 1692256
+      "sha256": "2d125aaa25956da6b81ab4c705ce184fabd1a3f6ced2e08babda832534087183",
+      "size": 1694931
     }
   }
 }
