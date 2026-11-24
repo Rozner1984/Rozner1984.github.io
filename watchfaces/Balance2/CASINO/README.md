@@ -11,7 +11,7 @@
 | ![Дневной · основной](CASINO-watch.png) | ![AOD](CASINO-aod.png) |
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-24T19:52:02.583Z
+- **Опубликовано:** 2026-11-24T20:01:34.869Z
 - **Установочный пакет:** [CASINO.zpk](https://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/CASINO/CASINO.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/CASINO/CASINO.zpk`
 
