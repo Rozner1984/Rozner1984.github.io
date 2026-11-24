@@ -1,0 +1,43 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "6290395",
+  "name": "тест",
+  "slug": "test",
+  "version": "1.0.0",
+  "publishedAt": "2026-11-24T17:39:16.916Z",
+  "files": {
+    "test.zpk": {
+      "sha256": "361c6249e09e7a7307721fede1b5597f4d5d9c378eb61f604edfefa000fdae63",
+      "size": 284496
+    },
+    "device.zip": {
+      "sha256": "7c5e241fc7000c26349b11710d0afe9c212041b8b34d3335fdd4533700b9cfc2",
+      "size": 284728
+    },
+    "project.zip": {
+      "sha256": "8b95843df338dde9cac3e2c253a245e53fcb409f078dec38a8d78477aac93e0b",
+      "size": 1438334
+    },
+    "test.watchface.json": {
+      "sha256": "caf81d4695cecfd91522aa12b9230021fea75eef7206f76582eeed2aa18fc427",
+      "size": 796843
+    },
+    "test-watch.png": {
+      "sha256": "927017011ace8d5846f0f2a4d180f7ccb409aa8165c5791854e9966cbf09576c",
+      "size": 813661
+    },
+    "test-watch-200.png": {
+      "sha256": "1ac2f1dbb75dd78adb54016e0f33f0c4205ade7edb7705826b5c3972e8c96912",
+      "size": 53905
+    },
+    "test-aod.png": {
+      "sha256": "12551baf5ed78c5b0aac24a75b83a6a30058e73751a7c2bf1cbb349f175e5a78",
+      "size": 293021
+    },
+    "test-watch-qr.png": {
+      "sha256": "3557d67d7d01f82341fdcb4b88f99fad4508ed1471bb9733c716b79c0dd6aeda",
+      "size": 1717235
+    }
+  }
+}
