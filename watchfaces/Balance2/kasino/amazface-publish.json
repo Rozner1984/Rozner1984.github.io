@@ -5,43 +5,43 @@
   "name": "kasino",
   "slug": "kasino",
   "version": "1.0.0",
-  "publishedAt": "2026-11-26T20:43:28.576Z",
+  "publishedAt": "2026-11-26T20:48:48.320Z",
   "files": {
     "kasino.zpk": {
-      "sha256": "e0cec5279aa79ca96cd4b698f70c280d7a067f637523eaeb4335d026acbeb1f2",
-      "size": 481776
+      "sha256": "05ff94df6fe627038b88e8b0db586e652cae576ec1b18f7cf4cf982f71204ad9",
+      "size": 484378
     },
     "device.zip": {
-      "sha256": "5c491af43cbc3a76750fb9a6df7cbefdff921c9a0d6d6442c698c3e067bd5546",
-      "size": 482157
+      "sha256": "f382c49c966e294d2f5fda449f2127659c5387c3e75e1a80c9e5a96419c38b69",
+      "size": 485033
     },
     "project.zip": {
-      "sha256": "d970765e10673ea1f2c11afa458c1521a1ab4e386461b6c9e6cecc6b29862513",
-      "size": 1984531
+      "sha256": "9dd8184834de2491f1c0b03c00b526934a3c0c8c9ac3073e35dfd5e550f626f0",
+      "size": 1987561
     },
     "kasino.watchface.json": {
-      "sha256": "bd7f96025ca7a1145fb65a58bee8f2a0700c28dfdeddbb66fa1c23c3206ad688",
-      "size": 1216991
+      "sha256": "d8b7360eb58bcc977f1ff4c3f65749e8abe02d26a114dcd86d213447b690718b",
+      "size": 1197299
     },
     "kasino-watch.png": {
-      "sha256": "7fdfd0b09fa1231da3bc10956e0e4d76dddd260e78c1c161d3bf8caa3388e917",
-      "size": 708855
+      "sha256": "74e827861f8b6083d1808f2d33eccfeba86b1a91883e7db29794ead4a382cbc7",
+      "size": 708956
     },
     "kasino-watch-200.png": {
-      "sha256": "eeaa01c96c073b0d396cedb373a15708de8ffee468cf6cf1363dfbf39a4b19c8",
-      "size": 55493
+      "sha256": "1476e1ff2f7849ba5372825e8bf741a518ea7f3e1278a934159157ddb68c5be9",
+      "size": 55582
     },
     "kasino-night.png": {
-      "sha256": "fda3bcbd86bd502be1f75ae4d7380a2e70399486ecbadcfc1f2d17230dd36d40",
-      "size": 708553
+      "sha256": "e64770cbb144a1ad10a032c1458788df4efaab91315ed67fa7101c3e0c4def05",
+      "size": 708774
     },
     "kasino-aod.png": {
-      "sha256": "063aaae150bc936e3c6ff1a61196a3c14aa7d76a0e39dddc7acbec3fd4c88e35",
-      "size": 373582
+      "sha256": "91d4c8c72cb53c4af2fe93f1698f7e0a5642a5cda02ce0d0a888223e21afee21",
+      "size": 373599
     },
     "kasino-watch-qr.png": {
-      "sha256": "224aa68a98cef2f22351fb23e99108284c86e96b7676d5c71cc75485a614c2a4",
-      "size": 1836168
+      "sha256": "be19498f1d4b9bac6846b753bc8f5f4ccae890eb0039ea3ecfa127a63c34aae5",
+      "size": 1836465
     }
   }
 }
