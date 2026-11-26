@@ -1,0 +1,47 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "8874914",
+  "name": "kasino",
+  "slug": "kasino",
+  "version": "1.0.0",
+  "publishedAt": "2026-11-26T20:35:41.514Z",
+  "files": {
+    "kasino.zpk": {
+      "sha256": "84c1524370078562c67b2addf3ff0c7ba4dbd7a7e6156e59cc2f19ec7fe465f9",
+      "size": 474679
+    },
+    "device.zip": {
+      "sha256": "24671f9e6cb5f57d3ef55f3de168cdd97233e862d16cf7d01415e954660a4bf2",
+      "size": 475056
+    },
+    "project.zip": {
+      "sha256": "ea6a1df0c1c0d3fdf38ae5f13507c21f75729da4c14f1f1a522fe49c4f26cde4",
+      "size": 2043518
+    },
+    "kasino.watchface.json": {
+      "sha256": "51d9d0e26e225172b7b714f7e941b4d5dd9fb27a609a85b7091db2f31413f3f3",
+      "size": 1198282
+    },
+    "kasino-watch.png": {
+      "sha256": "5cb7eae4938390f30ac0b4b279545f52458c3325c4a71c3ed9fb76e680b5b2ac",
+      "size": 722380
+    },
+    "kasino-watch-200.png": {
+      "sha256": "b1cfca5cd8c342e0905eca4c41e28ccc60dd4c55b18d383ddb73e90e6134d7c3",
+      "size": 55860
+    },
+    "kasino-night.png": {
+      "sha256": "ac30d4a56c12b2cf890347f2c74cf24f89ec5e2dab3c4d4d81656c65499ddb9c",
+      "size": 721738
+    },
+    "kasino-aod.png": {
+      "sha256": "8ba7372f03dcc0f6a6fe586a501d866465a533c839ece78319c110ab41e0f226",
+      "size": 373580
+    },
+    "kasino-watch-qr.png": {
+      "sha256": "fdcc7ed33c6b02d2734fcf3b64a8f58706ac76f71290dfbf94e33c7a8b0b38aa",
+      "size": 1854302
+    }
+  }
+}
