@@ -5,39 +5,39 @@
   "name": "LIFE GAME",
   "slug": "LIFE_GAME",
   "version": "1.0.0",
-  "publishedAt": "2026-11-27T19:05:09.833Z",
+  "publishedAt": "2026-11-27T19:28:31.930Z",
   "files": {
     "LIFE_GAME.zpk": {
-      "sha256": "84a7a8e72d3d7fd279a12801d2960211f75d14bde27c5ddc97b32130c8c35167",
-      "size": 104801
+      "sha256": "6a9b2410a6513a22b3fe1bbbd436cd9369714e189a3cb532e529d24288c8f190",
+      "size": 209081
     },
     "device.zip": {
-      "sha256": "c3d5660de82e6a240670ea6c7db17188f55cce7d2af21b784f0a9351657d6a06",
-      "size": 126917
+      "sha256": "e6361e80fde69bfe3ffcb0626eef925f7b33858874f62dd8b50ab7f39ac199a3",
+      "size": 209925
     },
     "project.zip": {
-      "sha256": "6f1adb64f005ca22101ff0d7cd544f6c97be2935ac92158c67d87e09f0a384ff",
-      "size": 497016
+      "sha256": "8763cf4a49807b5c463a14381a76f607d780d2272e141a03ef6b8a760b5643bc",
+      "size": 1124610
     },
     "LIFE_GAME.watchface.json": {
-      "sha256": "0bb60eb3dd1d95b435e639913de4162b620c83565186b7f7f7322517b49e18d5",
-      "size": 1272044
+      "sha256": "5bf385419631f118cef8170840c3284c5e987479c9599351ca6c375158433fe2",
+      "size": 1417658
     },
     "LIFE_GAME-watch.png": {
-      "sha256": "116c0a2e0e92f78bd9f05c553de36e65a61ebf4739004333a4c72831b5a6d62f",
-      "size": 688822
+      "sha256": "dee340518daf5e50234fdf5848733251ef670d82a64075c2a3f5f0c0230fe575",
+      "size": 689301
     },
     "LIFE_GAME-watch-200.png": {
-      "sha256": "19ab04dec5c88a794414ca110197301b44087b4d8a6cedf0df7bdaf47bafa498",
-      "size": 52421
+      "sha256": "40ed5942c504b5043f0cd21f8ce07eb574e36fa6e4e1ea77bac9c6deaa2332d2",
+      "size": 52444
     },
     "LIFE_GAME-aod.png": {
-      "sha256": "f02cba6eaf15fed55be4c51f3fa63d5814950c76c2609e50895bfd7c5ce08773",
-      "size": 357369
+      "sha256": "5f5f1a06a4dbb48c7bd76da8e51f0f03c7a35b90721940c5f23637172b4ccd51",
+      "size": 357512
     },
     "LIFE_GAME-watch-qr.png": {
-      "sha256": "f0b63445b8c70295c69d8498c424b14f9eaf146b5f0c6917e88ec2085987caf1",
-      "size": 1553944
+      "sha256": "13bd461f1ff26911e7231d760d8b2ba0ddd5d0a4b85b8b4173d56848b84077ba",
+      "size": 1554137
     }
   }
 }
