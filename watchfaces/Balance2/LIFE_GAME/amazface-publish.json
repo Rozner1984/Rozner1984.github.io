@@ -1,0 +1,43 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "9444689",
+  "name": "LIFE GAME",
+  "slug": "LIFE_GAME",
+  "version": "1.0.0",
+  "publishedAt": "2026-11-27T19:05:09.833Z",
+  "files": {
+    "LIFE_GAME.zpk": {
+      "sha256": "84a7a8e72d3d7fd279a12801d2960211f75d14bde27c5ddc97b32130c8c35167",
+      "size": 104801
+    },
+    "device.zip": {
+      "sha256": "c3d5660de82e6a240670ea6c7db17188f55cce7d2af21b784f0a9351657d6a06",
+      "size": 126917
+    },
+    "project.zip": {
+      "sha256": "6f1adb64f005ca22101ff0d7cd544f6c97be2935ac92158c67d87e09f0a384ff",
+      "size": 497016
+    },
+    "LIFE_GAME.watchface.json": {
+      "sha256": "0bb60eb3dd1d95b435e639913de4162b620c83565186b7f7f7322517b49e18d5",
+      "size": 1272044
+    },
+    "LIFE_GAME-watch.png": {
+      "sha256": "116c0a2e0e92f78bd9f05c553de36e65a61ebf4739004333a4c72831b5a6d62f",
+      "size": 688822
+    },
+    "LIFE_GAME-watch-200.png": {
+      "sha256": "19ab04dec5c88a794414ca110197301b44087b4d8a6cedf0df7bdaf47bafa498",
+      "size": 52421
+    },
+    "LIFE_GAME-aod.png": {
+      "sha256": "f02cba6eaf15fed55be4c51f3fa63d5814950c76c2609e50895bfd7c5ce08773",
+      "size": 357369
+    },
+    "LIFE_GAME-watch-qr.png": {
+      "sha256": "f0b63445b8c70295c69d8498c424b14f9eaf146b5f0c6917e88ec2085987caf1",
+      "size": 1553944
+    }
+  }
+}
