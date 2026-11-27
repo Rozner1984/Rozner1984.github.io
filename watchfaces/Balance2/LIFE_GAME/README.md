@@ -11,7 +11,7 @@
 | ![Дневной · основной](LIFE_GAME-watch.png) | ![AOD](LIFE_GAME-aod.png) |
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-27T19:05:09.833Z
+- **Опубликовано:** 2026-11-27T19:28:31.930Z
 - **Установочный пакет:** [LIFE_GAME.zpk](https://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/LIFE_GAME/LIFE_GAME.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/LIFE_GAME/LIFE_GAME.zpk`
 
