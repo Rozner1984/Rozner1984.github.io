@@ -5,47 +5,47 @@
   "name": "predator",
   "slug": "predator",
   "version": "1.0.0",
-  "publishedAt": "2026-11-28T17:36:23.440Z",
+  "publishedAt": "2026-11-28T17:47:05.651Z",
   "files": {
     "predator.zpk": {
-      "sha256": "8bd86dfc9a70818b295628dc349fcfe81e967f9c11a31ed2d0e069cf3b969615",
-      "size": 43985
+      "sha256": "7962e33449d6f01e0c507cf297e817f4e801ad0462a66d407ae5c400ce8ac907",
+      "size": 56228
     },
     "device.zip": {
-      "sha256": "eb18b2d1f054d823004fc0d076e01dbeb60bdf6d2b53ff08e6ef4fbaf38c0261",
-      "size": 57100
+      "sha256": "2311809a1b78022f584ca085609c47ad8fd7295b66c495c0d2277a6c3eaa2766",
+      "size": 92937
     },
     "project.zip": {
-      "sha256": "b2be2903d471ddbe04272436db4408f2f0955d392230644d08287045d33b3553",
-      "size": 203096
+      "sha256": "c3823402f19dc3e3e90ef23061c83011756e68cca79c3825f718d11618fdad8b",
+      "size": 411585
     },
     "predator.watchface.json": {
-      "sha256": "88277d7bc8e013ab9a17fb3021d38adc46c2d07ce5e046435b27eae5e0608922",
-      "size": 800510
+      "sha256": "b8318dacc6137b47cdbd6ca675a8d37834004ae138b4fefd2b27ed151a3afaa3",
+      "size": 862380
     },
     "predator-watch.png": {
-      "sha256": "29c4f83c85ea250b2c9a3411ba6cd9b742a5e144e7bb8f414926afcf1b2aae58",
-      "size": 319769
+      "sha256": "27e2cbc866f57c2c061f2ad89a148f9e994dd819d8a7bc621c6d136aa420fc89",
+      "size": 324014
     },
     "predator-watch-200.png": {
-      "sha256": "c9415f2e97c508e6352efd1aadf3ff193aebe0a4536a73ee8e911d3cbfefea3d",
-      "size": 35136
+      "sha256": "14975f89cede80f6a7a2a5b62b5143c9ce51e6f40831a75c10c7b4f968a0503d",
+      "size": 36219
     },
     "predator-aod.png": {
-      "sha256": "3dee73e979b7288e85f2f661db451ee597b55288de7ef33a45518203c3f99645",
-      "size": 242507
+      "sha256": "658a52abacc9ffa556d5d8f21a796a96f4d55f12ab3b44c3748e8c321a3ec302",
+      "size": 242580
     },
     "predator-tap-zones.png": {
-      "sha256": "0f4998c99afc86245a2523de671567ab830df0f07fe719c39ce5b6d443c0dd19",
-      "size": 918870
+      "sha256": "8581806ce508e8c03168bd8bfc9ff02fcfd7a3fd6941949ddc2733dd85cfc2e3",
+      "size": 923880
     },
     "predator-watch.gif": {
-      "sha256": "6a53d2c0318463fbdcc076ee7845016f31656ece46b35a190592ab7c1cd89a6f",
-      "size": 1310626
+      "sha256": "4430a5350be521b0054b33b2afcf92f770ac85a115565f6b8f2e4b1cc102cbc5",
+      "size": 1340565
     },
     "predator-watch-qr.png": {
-      "sha256": "3b57e636703188b32d39268a8d4f6d030422db43e3e0aaba9f252f3a0a4ccee9",
-      "size": 1293200
+      "sha256": "f792ddcf54175e6eb1220553f5db09c6dc1331e6ab7017981b234ead5c5cb1a7",
+      "size": 1300337
     }
   }
 }
