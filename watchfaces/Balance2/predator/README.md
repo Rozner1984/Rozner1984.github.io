@@ -19,7 +19,7 @@
 ![Зоны нажатия](predator-tap-zones.png)
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-28T17:36:23.440Z
+- **Опубликовано:** 2026-11-28T17:47:05.651Z
 - **Установочный пакет:** [predator.zpk](https://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/predator/predator.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/Rozner1984/Rozner1984.github.io/main/watchfaces/Balance2/predator/predator.zpk`
 
